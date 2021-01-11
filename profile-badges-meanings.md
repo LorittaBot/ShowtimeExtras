@@ -27,7 +27,6 @@ Badges que não estão aqui são de servidores parceiros meus ou de pessoas que 
 
 * <img src="https://twemoji.maxcdn.com/2/72x72/1f383.png" class="inline-emoji"> Badge exclusiva para participantes do evento de Halloween, que coletaram **400 doces (pontos)**;
 * <img src="https://cdn.discordapp.com/emojis/654123687670448137.png?v=1" class="inline-emoji"> Badge exclusiva para participantes do evento de Natal, que coletaram **400 presentes (pontos)**;
-* <img src="https://cdn.discordapp.com/emojis/623670395907866625.png?v=1" class="inline-emoji"> Badge exclusiva para participantes do evento de Halloween, que coletaram **400 doces (pontos)**;
 * <img src="https://cdn.discordapp.com/emojis/664849802793713686.png?v=1" class="inline-emoji"> & <img src="https://cdn.discordapp.com/emojis/664849802927800351.png?v=1" class="inline-emoji"> Badge exclusiva para participantes do evento de Aniversário de 3 Anos da Loritta, que coletaram **100 presentes (pontos)**. A badge pode ser Pantufa ou Gabi, dependendo do time que foi escolhido pelo usuário;
 
 ## Lista de Badges do Discord
