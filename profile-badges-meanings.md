@@ -6,7 +6,7 @@ Badges que não estão aqui são de servidores parceiros meus ou de pessoas que 
 
 **Observação:** Se a badge personalizada de servidor sumir mesmo que você ainda esteja no servidor, não tema! Provavelmente eu devo ter reiniciado e, quando eu reinicio, você precisa enviar uma mensagem ou entrar em um canal de voz no servidor para recuperar a badge!
 
-## Lista de Badges
+## Badge List
 
 * <img src="https://cdn.discordapp.com/emojis/663066646377791549.png?v=1" class="inline-emoji"> Badge para os usuários que tem a notificação de novidades ativa (`+notificar`) no servidor da Loritta
 * <img src="https://cdn.discordapp.com/emojis/500751186505498649.png?v=1" class="inline-emoji"> Badge para parceiros da Loritta
