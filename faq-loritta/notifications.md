@@ -1,4 +1,4 @@
-title: "Receba notificações do Youtube, Twitter e da Twitch no seu servidor!"
+title: "Notificações do Youtube, Twitter e da Twitch no seu servidor"
 ---
 O módulo do YouTube serve para notificar vídeos de um canal determinado, o da Twitch notifica as lives, e o do Twitter notifica tweets. Você pode por até 5 canais/perfis para eu te notificar se você não for um doador.
 
