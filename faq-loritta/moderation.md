@@ -1,7 +1,7 @@
 title: "Moderação"
 ---
 A Loritta tem um **módulo de moderação** no Dashboard.  
-Configurando ele, você pode configurar um canal para anunciar punições feitas com os comandos.  
+Configurando ele, você pode definir um canal para anunciar punições feitas com os comandos.  
 Note que, você precisa usar os comandos de moderação para que a Loritta anuncie as punições no seu servidor.  
 Para acessar o módulo, use o comando `painel` no seu servidor, e em seguida, clique em "Moderação".  
 
@@ -22,6 +22,7 @@ Observe que nos comandos de punição, você pode inserir vários usuários para
 
 #### Por último, os comandos que não são para punir ou remover punições:
 * `baninfo`: Examine um banimento de um membro do seu servidor.
+* `warnlist`: Examine avisos feitos com o `warn` em um membro do seu servidor.
 * `lock`: Bloqueie membros de enviar mensagens em um canal. Ao usar o comando sem especificar um canal, o canal qual o comando foi executado será bloqueado.
 * `unlock`: Desbloqueie membros de enviar mensagens em um canal. Ao usar o comando sem especificar um canal, o canal qual o comando foi executado será desbloqueado.
 
