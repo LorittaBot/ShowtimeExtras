@@ -1,7 +1,7 @@
 title: "Moderação"
 ---
 A Loritta tem um **módulo de moderação** no Dashboard.  
-Configurando ele, você pode configurar um canal para anunciar punições feitas com os comandos.  
+Configurando ele, você pode definir um canal para anunciar punições feitas com os comandos.  
 Note que, você precisa usar os comandos de moderação para que a Loritta anuncie as punições no seu servidor.  
 Para acessar o módulo, use o comando `painel` no seu servidor, e em seguida, clique em "Moderação".  
 
@@ -22,6 +22,7 @@ Observe que nos comandos de punição, você pode inserir vários usuários para
 
 #### Por último, os comandos que não são para punir ou remover punições:
 * `baninfo`: Examine um banimento de um membro do seu servidor.
+* `warnlist`: Examine avisos feitos com o `warn` em um membro do seu servidor.
 * `lock`: Bloqueie membros de enviar mensagens em um canal. Ao usar o comando sem especificar um canal, o canal qual o comando foi executado será bloqueado.
 * `unlock`: Desbloqueie membros de enviar mensagens em um canal. Ao usar o comando sem especificar um canal, o canal qual o comando foi executado será desbloqueado.
 
@@ -29,7 +30,7 @@ Observe que nos comandos de punição, você pode inserir vários usuários para
 * Várias coisas podem fazer o `lock` e o `mute` não funcionarem. Se eu responder alguma coisa quando você tentar o comando, leia a minha mensagem com a atenção pois lá pode estar a resposta.
 * Eu disse que bloqueei o chat/silenciei a pessoa mas o(s) membro(s) ainda continuam conversando? Esta pessoa pode estar com um cargo que possui a permissão de Administrador no servidor. Administradores conseguem falar nos chats mesmo com eles bloqueados ou mesmo com o cargo de silenciado.
 
-#### Estas pessoas não são administradoras? Então pode ser algum problema nas permissões do seu chat.
+#### Estas pessoas não são administradoras? Então pode ser algum problema nas permissões do canal.
 * Quando o comando `lock` é executado, a permissão "Enviar Mensagens" do cargo `@everyone` é **negada**.
 * E quando o comando `mute` é usado, é definido um cargo chamado "Silenciado" em que a permissão de "Enviar Mensagens" em canais de texto é **negada**.
 * Se a pessoa estiver com outro cargo acima do cargo usado pelo o tal comando, e esse cargo tem a tal permissão concedida, essa negação de permissão é anulada.
