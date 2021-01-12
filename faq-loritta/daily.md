@@ -1,6 +1,6 @@
 title: "Sonhos diários"
 ---
-Os sonhos diários, ou daily, é a forma mais fácil para você conseguir sonhos. Uma quantia de sonhos estará disponível para você pegar uma vez todos os dias. Esta quantia pode se tornar mais alta quando você é um usuário premium da Loritta (torne-se um usuário premium [clicando aqui](/donate)!) ou quando você é ativo em um servidor com uma key premium +R$19,99 da Loritta ativa (vote em mim 60 vezes no [Discord Bot List](https://discordbots.org/bot/loritta) e ganhe uma key premium!).
+Os sonhos diários, ou daily, é a forma mais fácil para você conseguir sonhos. Uma quantia de sonhos estará disponível para você pegar uma vez todos os dias. Esta quantia pode se tornar mais alta quando você é um usuário premium da Loritta (torne-se um usuário premium [clicando aqui](/donate)!) ou quando você é ativo em um servidor com uma key premium +R$19,99 da Loritta ativa (vote em mim 60 vezes no [Discord Bot List](https://discordbots.org/bot/loritta) e ganhe uma key premium de graça!).
 
 Ainda não resgatou seus sonhos diários hoje? Então [clique aqui](/daily)! Relembrando que os sonhos diários são um por dia, e não a cada 24 horas. Está com problemas para resgatar? Então segue o fio.
 
