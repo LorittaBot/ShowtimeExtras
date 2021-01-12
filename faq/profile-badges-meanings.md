@@ -18,7 +18,7 @@ Badges que não estão aqui são de servidores parceiros meus ou de pessoas que 
 * <img src="https://cdn.discordapp.com/emojis/546310682807894074.png?v=1" class="inline-emoji"> Badge para quem já colaborou com a Loritta no GitHub;
 * <img src="https://twemoji.maxcdn.com/2/72x72/1f48d.png" class="inline-emoji"> Badge para quem está casado pela Loritta (`+casar`);
 * <img src="https://cdn.discordapp.com/emojis/500751173549162508.png?v=1" class="inline-emoji"> Badge para quem já está casado pela Lori há mais de um mês;
-* <img src="https://cdn.discordapp.com/emojis/500751186505498649.png?v=1" class="inline-emoji"> Badge para quem é Staff do [SparklyPower](https://discord.gg/sparklypower), o servidor de Minecraft da Loritta;
+* <img src="https://cdn.discordapp.com/emojis/331179879582269451.png?v=1" class="inline-emoji"> Badge para quem é Staff do [SparklyPower](https://discord.gg/sparklypower), o servidor de Minecraft da Loritta;
 * <img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" class="inline-emoji"> Badge para quem já ajudou a traduzir a Loritta para alguma outra língua não-portuguesa;
 * <img src="https://cdn.discordapp.com/emojis/645689951408619546.png?v=1" class="inline-emoji"> Badge exclusiva para usuários que compraram a caneca da Loritta;
 * <img src="https://cdn.discordapp.com/emojis/623670395907866625.png?v=1" class="inline-emoji"> Badge exclusiva para usuários que compraram o moletom da Loritta;
