@@ -3,7 +3,7 @@ title: "Como \"bugar\" o coinflip?"
 Muitas pessoas acreditam que é possível "bugar" o `coinflip`/`coinflip bet`, fazendo que você sempre ganhe qualquer partida de coinflip com outra pessoa.
 
 ## Uma pessoa que sempre ganha de mim no coinflip disse que ela faz macete para ganhar!
-Não acredite nessas mentiras, ela só está inventando histórias para você achar que ela sabe de algo secreto que você não não pode saber.
+Não acredite nessas mentiras, ela só está inventando histórias para você achar que ela sabe de algo secreto que você não pode saber.
 
 ### Já ouvimos de tudo
 * Ficar dando `coinflip` até cair o lado que você tanto almeja no `coinflip bet` aumenta as suas chances de ganhar.
