@@ -1,13 +1,13 @@
 title: "Traduções para a Loritta"
 ---
 
-<img src="https://i.imgur.com/Oxdu0Ra.png" style="text-align: center;" height="300" />
+<img src="https://i.imgur.com/ylOjZXG.png" style="text-align: center;" height="300" />
 
 Para mais pessoas usarem e se divertirem com a <span class="discord-mention">@Loritta</span>, é necessário traduzir ela para outras linguagens para ela crescer mais e ser mais feliz! <img src="https://cdn.discordapp.com/emojis/524893994874961940.gif?v=1" class="inline-emoji">    
 Traduzir algo para várias linguagens é complicado, afinal, o trabalho é feito manualmente, então pedimos encarecidamente que se você tem dominação por alguma linguagem nós ajude a traduzir a Loritta!   
 
 ## Mas... o que eu vou ganhar traduzindo ela?
-* ~Fama e Glória!~  
+* ~~Fama e Glória!~~~  
 
 Você irá ganhar:
 * Um cargo exclusivo nos servidor da Loritta!
