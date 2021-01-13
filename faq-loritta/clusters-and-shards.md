@@ -8,11 +8,11 @@ Uma shard seria como se você abrisse o Discord novamente, só que cada novo "Di
 
 O Sharding é usado para diminuir o "peso" de um bot nos servidores do Discord, e também é vantajoso para bots, já que cada shard tem um rate limit diferente, causando menos problemas relacionados a isso.
 
-Clusters são conjuntos de shards. No momento, eu tenho o total de 16 clusrers! Você pode ver todas elas usando o comando `+ping clusters`. Use apenas `+ping` para saber em qual seu servidor se encontra. Não é possível escolher qual cluster ou shard é a do seu servidor.
+Clusters são conjuntos de shards. No momento, eu tenho o total de 16 clusters! Você pode ver todas elas usando o comando `+ping clusters`. Use apenas `+ping` para saber em qual seu servidor se encontra. Não é possível escolher qual cluster ou shard é a do seu servidor.
 
 ## Coisas que os Clusters influenciam no meu funcionamento
 
-* [Bom Dia & CIA](/extras/faq-loritta/bomdiaecia);
+* [Bom Dia & Cia](/extras/faq-loritta/bomdiaecia);
 * Comandos e mensagens que envolvem emoji;
 * Instabilidades (eu posso ficar instável em um servidor e estar funcionando normalmente em outro devido ao sistema de clusters).
 
