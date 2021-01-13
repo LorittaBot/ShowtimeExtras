@@ -14,7 +14,8 @@ O prefixo padrão da Loritta é +, mas você pode alterar ele no [painel de admi
 ## Como altero a linguagem da Loritta?
 Para definir a linguagem na qual a Loritta fala no seu servidor você pode utilizar o comando `+linguagem`.  
 * <img src="https://cdn.discordapp.com/emojis/726845783344939028.png?v=1" class="inline-emoji"> **Dica da Loritta Morenitta**: Se você tem uma preferência ou afinidade com alguma linguagem em específico, você pode definir uma língua na qual a Loritta sempre irá utilizar com você mandando `linguagem` no privado da <span class="discord-mention">@Loritta</span>.
-* <img src="https://cdn.discordapp.com/emojis/640158506049077280.png?v=1" class="inline-emoji"> A tradução da Loritta é feita manualmente, e por isso algumas linguagens podem demorar para serem traduzidas completamente. Se você tiver interesse, ajude-nós a [traduzir a Loritta](https://loritta.crowdin.com/) e ganhe algumas exclusividades sendo tradutor! Entre no nosso [Servidor Comunidade](https://discord.gg/lori) para mais informações!
+* <img src="https://cdn.discordapp.com/emojis/640158506049077280.png?v=1" class="inline-emoji"> A tradução da Loritta é feita manualmente, e por isso algumas linguagens podem demorar para serem traduzidas completamente. Se você tiver interesse, ajude-nós a [traduzir a Loritta](https://loritta.crowdin.com/) e ganhe algumas exclusividades sendo tradutor!
+* <img src="https://twemoji.maxcdn.com/2/72x72/1f30e.png" class="inline-emoji"> Saiba mais informações na nossa outra página sobre [Tradução](/extras/faq-loritta/translate)! 
 
 ## Como posso configurar/personalizar a Loritta?
 Você pode configurar ela no [painel de administração](/dashboard)!
@@ -24,17 +25,17 @@ Sempre que estiver com **dúvidas sobre a Loritta**, sinta-se a vontade para ent
 
 ## Como altero o avatar da Loritta?
 É impossível alterar o avatar dela, apenas quem criou ela pode alterar, e, ao alterar, o avatar é alterado para todos que usam a Loritta... Não iremos alterar o avatar dela só porque você quer colocar uma imagemzinha tosca com o logo do seu servidor.  
-#### O avatar da Loritta só é alterado se:
+#### O avatar da Loritta só é alterado:
 * Em algumas datas comemorativas;
-* Estiver ocorrendo algum evento na mesma;
-* Nos domingos o avatar da Loritta fica trocando o avatar para mostrar as incríveis fan arts que fizeram para ela;
+* Durante a ocorrência de algum evento na mesma;
+* Todo domingo a Loritta fica trocando o avatar para mostrar as incríveis fan arts que fizeram para ela;
 
 ## Quais são as variáveis/placeholders que eu posso usar em mensagens do painel?
-Existem vários placeholders que você pode usar nas mensagens da Loritta! Veja a lista [clicando aqui](/extras/faq/placeholders)!
+Existem vários placeholders que você pode usar nas mensagens da Loritta! Veja a lista [clicando aqui](/extras/faq-loritta/placeholders)!
 
 ## Porque a Loritta existe?
 **Ela existe por vários motivos, mas aqui vai alguns deles...**
-* Eu queria refazer o meu antigo bot (SparklyBot) que eu tinha feito apenas para diversão (ele era muito bagunçado, já que foi o meu primeiro bot), ele era um bot com vários comandos de entreterimento (muitos deles foram adicionados na Loritta! Como o treta news, sistema de anti-invite, vaporwave e muito mais!) e com algumas funções básicas como mensagens de entrada/saída.
+* Eu queria refazer o meu antigo bot (SparklyBot) que eu tinha feito apenas para diversão (ele era muito bagunçado, já que foi o meu primeiro bot), ele era um bot com vários comandos de entretenimento (muitos deles foram adicionados na Loritta! Como o treta news, sistema de anti-invite, vaporwave e muito mais!) e com algumas funções básicas como mensagens de entrada/saída.
 * A <span class="discord-mention">@Pandinhaaa</span> queria um bot para o servidor do Discord dela.
 * Na época eu não conhecia nenhum bot brasileiro decente para o Discord e, na época, várias pessoas brasileiras estavam começando a migrar para o Discord.
 Então eu resolvi criar a <span class="discord-mention">@Loritta</span>!
