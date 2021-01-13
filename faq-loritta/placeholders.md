@@ -1,4 +1,4 @@
-title: "Placeholders & Variavéis"
+title: "Placeholders & Variáveis"
 ---
 
 Existem vários placeholders que você pode usar nas mensagens da Loritta!
@@ -11,11 +11,11 @@ Se você está querendo justamente toda essa praticidade e beleza que essa funç
 
 Um placeholder é resumidamente, uma palavra/termo que tem proposito de ser substituído por outro. Confuso? Um pouco né? Vou tentar explicar melhor! Ao tentar utilizar `+say Oi {user}!` você espera que a Loritta diga exatamente "`Oi {user}`" né?
 
-{{ renderDiscordMessage("placeholders_say_example_1.html") }}
+{{ renderDiscordMessage("placeholders_say_example_1.html", "no_tooltips.conf") }}
 
 Mas como **{user}** é um placeholder, essa parte da mensagem será substituida pelo nome do usuário que executou o comando, ainda segue o exemplo:
 
-{{ renderDiscordMessage("placeholders_say_examples_2.html") }}
+{{ renderDiscordMessage("placeholders_say_examples_2.html", "no_tooltips.conf") }}
 
 Entendeu? ótimo! Agora vou listar todos os placeholders e suas funções, segue comigo!
 
