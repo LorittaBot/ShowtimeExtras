@@ -12,8 +12,8 @@ Clusters são conjuntos de shards. No momento, eu tenho o total de 16 clusters! 
 
 ## Coisas que os Clusters influenciam no meu funcionamento
 
-* [Bom Dia & Cia](/extras/faq-loritta/bomdiaecia);
-* Comandos e mensagens que envolvem emoji;
+* [Bom Dia & Cia](/extras/faq-loritta/bomdiaecia).
+* Comandos e mensagens que envolvem emoji.
 * Instabilidades (eu posso ficar instável em um servidor e estar funcionando normalmente em outro devido ao sistema de clusters).
 
 

@@ -5,7 +5,7 @@ title: "Embeds"
 
 Embeds são um tipo especial de mensagem no Discord, você provavelmente já viu elas antes... aquelas caixinhas que possuem uma corzinha na esquerda e que ainda por cima podem ter imagens, autor, footer e muito mais! Sim, elas são bonitas, e é claro que a Loritta suporta elas também!
 
-{{ renderDiscordMessage("embeds_embed_example.html", "remove-reply", "remove-message-content") }}
+{{ renderDiscordMessage("embeds_embed_example.html", "no_tooltips.conf", "remove-reply", "remove-message-content") }}
 
 Na Loritta, embeds são suportadas em todos os lugares que aceitam uma mensagem no painel, ao colocar uma embed no local da mensagem, ela irá mostrar a embed na preview e irá mostrar que está no modo "Extended Code".
 
@@ -26,7 +26,7 @@ o Website da Loritta tem o seu próprio editor de embeds, isto facilita muito ta
 
 <img src="https://i.imgur.com/VW9OFac.png" style="text-align: center;" height="300" />
 
-##### Print demonstrativa do Editor de Embeds, para começar a edição clique em "Adicionar embed".
+*Print demonstrativa do Editor de Embeds, para começar a edição clique em "Adicionar embed".*
 
 Você pode editar textos/cores/etc clicando na seção que você quer editar, por exemplo: Se você quer alterar a cor de embed, é só clicar na lateral aonde fica a cor. Se você quer alterar o título da embed, só clicar no título.
 
@@ -36,7 +36,7 @@ O embed editor está integrado com o website da Loritta! Para abrir uma mensagem
 
 Para você ver como é feito os embeds, deixamos alguns embeds prontos para você ver, usar e se divertir! Para utilizar eles, copie o código, coloque no lugar de texto no painel da Loritta aonde você quer usar o embed e veja como ele ficou!
 
-#### Mensagem de Entrada
+### Mensagem de Entrada
 ```json
 {
    "content":"{@user}",
@@ -58,7 +58,7 @@ Para você ver como é feito os embeds, deixamos alguns embeds prontos para voc�
 }
 ```
 
-#### Mensagem de Saída
+### Mensagem de Saída
 ```json
 {
    "content":"",
@@ -80,7 +80,7 @@ Para você ver como é feito os embeds, deixamos alguns embeds prontos para voc�
 }
 ```
 
-#### Mensagem de Entrada (via mensagem direta)
+### Mensagem de Entrada (via mensagem direta)
 ```json
 {
    "content":" ",
@@ -96,7 +96,7 @@ Para você ver como é feito os embeds, deixamos alguns embeds prontos para voc�
 }
 ```
 
-#### Mensagem quando alguém é punido (Moderação)
+### Mensagem quando alguém é punido (Moderação)
 ```json
 {
    "content":"",
@@ -134,7 +134,7 @@ Para você ver como é feito os embeds, deixamos alguns embeds prontos para voc�
 }
 ```
 
-#### Mensagem de Level UP
+### Mensagem de Level UP
 ```json
 {
   "content": "{@user}",
@@ -152,7 +152,7 @@ Para você ver como é feito os embeds, deixamos alguns embeds prontos para voc�
 }
 ```
 
-#### Mensagem de Card de Experiência
+### Mensagem de Card de Experiência
 
 * Este em especial é utilizado em um [Comando Personalizado](/extras/faq-loritta/custom-commands). Clique nas letras em azul para ver o nosso FAQ sobre!
 ```json
