@@ -13,11 +13,11 @@ Um placeholder é resumidamente, uma palavra/termo que tem proposito de ser subs
 
 {{ renderDiscordMessage("placeholders_say_example_1.html", "no_tooltips.conf") }}
 
-Mas como **{user}** é um placeholder, essa parte da mensagem será substituida pelo nome do usuário que executou o comando, ainda segue o exemplo:
+Mas como **{user}** é um placeholder, essa parte da mensagem será substituida pelo nome do usuário que executou o comando, ainda não entendeu? Segue o exemplo:
 
 {{ renderDiscordMessage("placeholders_say_examples_2.html", "no_tooltips.conf") }}
 
-Entendeu? ótimo! Agora vou listar todos os placeholders e suas funções, segue comigo!
+Entendeu? Ótimo! Agora vou listar todos os placeholders e suas funções, segue comigo!   
 
 ## Usuário
 
