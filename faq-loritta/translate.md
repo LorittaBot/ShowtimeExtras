@@ -7,7 +7,7 @@ Para mais pessoas usarem e se divertirem com a <span class="discord-mention">@Lo
 Traduzir algo para várias linguagens é complicado, afinal, o trabalho é feito manualmente, então pedimos encarecidamente que se você tem dominação por alguma linguagem nós ajude a traduzir a Loritta!   
 
 ## Mas... o que eu vou ganhar traduzindo ela?
-* ~Fama e Glória!~  
+* ~~Fama e Glória!~~~  
 
 Você irá ganhar:
 * Um cargo exclusivo nos servidor da Loritta!
