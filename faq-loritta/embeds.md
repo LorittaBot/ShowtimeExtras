@@ -22,7 +22,7 @@ Embeds são formatadas em JSON, baseado no jeito que o Discord envia embeds.
 
 ## Editor de Embeds da Loritta
 
-o Website da Loritta tem o seu próprio editor de embeds, isto facilita muito tanto para vocês e para nós, já que reaproveitamos a renderização de mensagens do website do Embed Editor para o website da Loritta. Se você não conhecer o editor de embeds ainda, basta [clicar aqui](https://embeds.loritta.website/) para ser redirecionado para ele.
+O website da Loritta tem o seu próprio editor de embeds, isto facilita muito tanto para vocês e para nós, já que reaproveitamos a renderização de mensagens do website do Embed Editor para o website da Loritta. Se você não conhecer o editor de embeds ainda, basta [clicar aqui](https://embeds.loritta.website/) para ser redirecionado para ele.
 
 <img src="https://i.imgur.com/VW9OFac.png" style="text-align: center;" height="300" />
 
