@@ -1,5 +1,8 @@
 title: "Comandos Personalizados"
 ---
+
+<img src="https://i.imgur.com/gjLtnvt.png" style="text-align: center;" height="300" />
+
 Sabia que você pode criar comandos para o seu servidor? No momento, apenas comandos que enviam uma mensagem prontas são possíveis, mas ainda assim você pode criar várias coisas com isso! Siga os passos a seguir para saber como criar um e saber mais sobre eles. <img src="https://cdn.discordapp.com/emojis/673868465433477126.png?v=1" class="inline-emoji">
 
 ## Como criar um comando personalizado?
