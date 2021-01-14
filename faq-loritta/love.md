@@ -31,7 +31,9 @@ Ao casar-se com alguém, você automaticamente ganhará 100% quando usarem o com
 ## Beijos: `+kiss @user`
 {{ renderDiscordMessage("kiss_danielagc.html", "remove-reply", "remove-message-content") }}
 
-Você pode dar um beijo virtual usando o comando `+kiss @user`. Este é um dos meus comandos de ação! Saiba todos os meus comandos de ação e muito mais [clicando aqui](/commands)!
+Você pode dar um beijo virtual usando o comando `+kiss @user`. Este é um dos meus comandos de ação! Saiba todos os meus comandos de ação e muito mais [clicando aqui](/commands)! 
+
+Você pode mudar o seu gênero nas minhas mensagens usando o comando `+gender`. Dependendo do que você selecionar, eu irei personalizar os GIFs deste principalmente e dos outros comandos de ações.
 
 **Atenção**: Não me responsabilizo se sua alma gêmea dar um web beijo em outra pessoa! <img src="https://cdn.discordapp.com/emojis/732706868224327702.png?v=1" class="inline-emoji">
 
