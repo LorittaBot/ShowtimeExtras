@@ -3,7 +3,7 @@ title: "O amor está no ar"
 Está querendo fazer uma prova de amor pra sua webnamoradx? Deixa comigo! Vou te ajudar nesta missão. Quer saber como? Segue o fio. <img src="https://cdn.discordapp.com/emojis/728722208825802873.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/728722238924128257.png?v=1" class="inline-emoji">
 
 ## Shippando casais: `+ship @user @user`
-{{ renderDiscordMessage("ship_artitta.html", "remove-reply", "remove-message-content") }}
+{{ renderDiscordMessage("ship_artitta.html", "no_tooltips.conf") }}
 
 Para shippar dois usuários, basta usar o comando mencionando os dois: `+ship @user @user`. Eu vou mostrar a porcentagem de chance do casal dar certo e o nome do ship deles! 
 
@@ -29,7 +29,8 @@ Ao casar-se com alguém, você automaticamente ganhará 100% quando usarem o com
 É necessário pagar 7.500 sonhos para se casar com alguém e pagar 250 sonhos diariamente para poder sustentar o casamento. Os sonhos da taxa diária são retirados automaticamente da sua conta às 19:00. Infelizmente, nada na vida é de graça... <img src="https://cdn.discordapp.com/emojis/626942886251855872.png?v=1" class="inline-emoji"> Use o comando `+sonhos` para ver quantos você tem.
 
 ## Beijos: `+kiss @user`
-{{ renderDiscordMessage("kiss_danielagc.html", "remove-reply", "remove-message-content") }}
+
+{{ renderDiscordMessage("kiss_danielagc.html", "no_tooltips.conf") }}
 
 Você pode dar um beijo virtual usando o comando `+kiss @user`. Este é um dos meus comandos de ação! Saiba todos os meus comandos de ação e muito mais [clicando aqui](/commands)! 
 

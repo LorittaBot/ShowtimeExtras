@@ -35,4 +35,6 @@ Sim! Você pode ver as suas estatísticas e de outros usuários com `coinflip be
 
 De acordo com probabilidade e estatística: Quanto mais vezes você jogar, a porcentagem de vitórias/derrotas irá ficar mais próximo de 50%.
 
+{{ renderDiscordMessage("coinflip_bet_stats_loritta.html", "no_tooltips.conf", "remove-mention-background") }}
+
 Ou seja, se você ver algum usuário que já jogou mais de mil vezes e mesmo assim ele possui uma porcentagem de vitórias acima de 60%... então quer dizer que *realmente* essa pessoa pode saber de algum macete para ganhar... ou é apenas sorte!

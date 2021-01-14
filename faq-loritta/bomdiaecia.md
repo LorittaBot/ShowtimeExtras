@@ -9,7 +9,7 @@ Quando alguém ganha eu anúncio o nome do vencedor e o servidor que ele ganhou 
 Você não pode copiar e colar a frase que eu anunciei, não tente ligar sem que eu tenha anunciado o programa e não ligue se uma pessoa já ganhou. Se tentar fazer isto falhará miseravelmente e estará jogando seus sonhos fora... Cada ligação custa 75 sonhos! 
 
 A mensagem abaixo é um exemplo de um anúncio do Bom Dia & Cia que eu faço. Infelizmente ainda não sou rica o suficiente pra dar um PlayStation pra todo mundo que liga primeiro no Bom Dia & CIA... <img src="https://cdn.discordapp.com/emojis/626942886251855872.png?v=1" class="inline-emoji">
-{{ renderDiscordMessage("bomdiaecia_announcement.html") }}
+{{ renderDiscordMessage("bomdiaecia_announcement.html", "no_tooltips.conf") }}
 
 Neste FAQ você encontrará como ativar o sistema do Bom Dia & Cia no seu servidor, todas as frases que eu posso anunciar e a relação entre o meu sistema de clusters e o Bom Dia & CIA.
 
@@ -22,12 +22,6 @@ Neste FAQ você encontrará como ativar o sistema do Bom Dia & Cia no seu servid
 
 3. Procure por Bom Dia & Cia. Do lado disso terá um botão como este aqui "<img src="https://cdn.discordapp.com/emojis/769354477525401611.png?v=1" class="inline-emoji">" para você ativar o sistema. Ao ativar, clique em Salvar e pronto! <img src="https://cdn.discordapp.com/emojis/519546310978830355.png?v=1" class="inline-emoji"> Embaixo da opção de Bom Dia & Cia você também encontrará o Modo Tosco, que é um modo em que eu solto piadas e reações aleatórias no seu chat quando tiverem pessoas conversando nele.
 ![3° passo](https://i.imgur.com/Sp3ZYYp.png)
-
-## Todas as frases do Bom Dia & Cia
-Na imagem a seguir você pode conferir todas as variações de frases que eu posso anunciar para que você ligue!
-
-Atenção: o uso de qualquer ferramenta para agilizar a execução da ligação é extremamente proibida e se descobrirmos você será banido de usar meus comandos!
-![Todas as frases do Bom Dia & Cia](https://cdn.discordapp.com/attachments/358774895850815488/788149863564967956/unknown.png)
 
 ## Clusters e o Bom Dia & Cia
 Se você não sabe o que é o meu sistema de clusters e quer saber o que é, então [clique aqui](/extras/faq-loritta/clusters-and-shards) que eu irei te redirecionar para a minha outra página do FAQ. 
