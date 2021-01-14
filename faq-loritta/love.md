@@ -1,4 +1,4 @@
-title: "O amor está no ar!"
+title: "O amor está no ar"
 ---
 Está querendo fazer uma prova de amor pra sua webnamoradx? Deixa comigo! Vou te ajudar nesta missão. Quer saber como? Segue o fio. <img src="https://cdn.discordapp.com/emojis/728722208825802873.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/728722238924128257.png?v=1" class="inline-emoji">
 
@@ -15,7 +15,7 @@ A porcentagem de chance pode mudar de duas formas: caso algum dos usuários do s
 2. Desça a página que você e encontrará os espaços para preencher a Discord Tag ou o ID do usuário e a porcentagem desejada.
 ![2° passo](https://cdn.discordapp.com/attachments/358774895850815488/798993670492782652/unknown.png)
 
-3. Depois de preencher, salve! Cada suborno, como diz no website, custa 3.000 sonhos e ele durará por 7 dias. Ao passar estes 7 dias, você deverá subornar novamente se quiser manter a porcentagem. Se você não renovar o suborno, uma nova porcentagem aleatória será gerada para o ship.
+3. Depois de preencher, clique em `Comprar`! Cada suborno, como diz no website, custa 3.000 sonhos e ele durará por 7 dias. Ao passar estes 7 dias, você deverá subornar novamente se quiser manter a porcentagem. Se você não renovar o suborno, uma nova porcentagem aleatória será gerada para o ship.
 ![3° passo](https://cdn.discordapp.com/attachments/358774895850815488/798994094469677086/unknown.png)
 
 4. **Este passo 4 é para apenas quem não conseguiu usar o suborno devido ao erro "Unknown user"**. Caso isto aconteça com você, tente usar o ID do usuário. Você pode conseguir o ID de um usuário usando o comando `+userinfo @user` ou usando o próprio Discord ([clique aqui](https://support.discord.com/hc/pt-br/articles/206346498-Onde-posso-encontrar-minhas-IDs-de-Usu%C3%A1rio-Servidor-Mensagem-) para ver o tutorial do Discord).
@@ -32,7 +32,9 @@ Ao casar-se com alguém, você automaticamente ganhará 100% quando usarem o com
 
 {{ renderDiscordMessage("kiss_danielagc.html", "no_tooltips.conf") }}
 
-Você pode dar um beijo virtual usando o comando `+kiss @user`. Este é um dos meus comandos de ação! Saiba todos os meus comandos de ação e muito mais [clicando aqui](/commands)!
+Você pode dar um beijo virtual usando o comando `+kiss @user`. Este é um dos meus comandos de ação! Saiba todos os meus comandos de ação e muito mais [clicando aqui](/commands)! 
+
+Você pode mudar o seu gênero nas minhas mensagens usando o comando `+gender`. Dependendo do que você selecionar, eu irei personalizar os GIFs deste principalmente e dos outros comandos de ações.
 
 **Atenção**: Não me responsabilizo se sua alma gêmea dar um web beijo em outra pessoa! <img src="https://cdn.discordapp.com/emojis/732706868224327702.png?v=1" class="inline-emoji">
 
