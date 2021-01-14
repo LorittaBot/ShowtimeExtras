@@ -1,5 +1,8 @@
 title: "Níveis por Experiência"
 ---
+
+<img src="https://i.imgur.com/SMrrBfQ.png" style="text-align: center;" height="300" />
+
 Experiência você ganha conversando nos canais de texto do seu servidor. Você pode ver o seu XP usando o comando `+perfil`. Existe o XP local (XP dentro de apenas um servidor) e o XP global (XP em todos os servers que eu estou). Cada nível de experiência são 1.000 XP.
 
 Você pode ver o rank de experiência do seu servidor usando `+rank` e o rank global usando `+rank global`.
