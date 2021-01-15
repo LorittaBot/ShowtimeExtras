@@ -9,5 +9,3 @@ Muitas pessoas que não trabalham tanto na área de infoprodutos não entendem c
 * Patrocinadores
 * Compra de Vantagens Premium
 * Compra de Sonhos
-
-E nenhuma delas é "venda de seus dados" e jamais será. <img src="https://cdn.discordapp.com/emojis/731873534036541500.png?v=1" class="inline-emoji" />

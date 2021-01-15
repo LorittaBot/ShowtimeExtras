@@ -1,5 +1,8 @@
 title: "Níveis por Experiência"
 ---
+
+<img src="https://i.imgur.com/SMrrBfQ.png" style="text-align: center;" height="300" />
+
 Experiência você ganha conversando nos canais de texto do seu servidor. Você pode ver o seu XP usando o comando `+perfil`. Existe o XP local (XP dentro de apenas um servidor) e o XP global (XP em todos os servers que eu estou). Cada nível de experiência são 1.000 XP.
 
 Você pode ver o rank de experiência do seu servidor usando `+rank` e o rank global usando `+rank global`.
@@ -37,7 +40,7 @@ Se tudo der certo, o XP da mensagem é a quantidade de caracteres não repetidos
 * Configurar canais de texto para não darem experiência
 
 ## Profile Card (`+level`)
-{{ renderDiscordMessage("level_card.html", "no_tooltips.conf", "remove-reply", "remove-message-content") }}
+{{ renderDiscordMessage("level_card.html", "no_tooltips.conf") }}
 
 O comando `+level` é um comando disponível apenas no meu [servidor de comunidade](https://discord.gg/lori), mas você também pode adicioná-lo no seu servidor! [Clique aqui](https://gist.github.com/MrPowerGamerBR/0d85d998e9ef656e7a6ab8b04f029380) se quiser ver o código da [embed](/extras/faq-loritta/embeds) do comando. Quer saber mais sobre comandos personalizados? [Clique aqui](/extras/faq-loritta/custom-commands)!
 

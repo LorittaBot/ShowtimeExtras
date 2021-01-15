@@ -4,9 +4,9 @@ O starboard é um canal de texto que você pode configurar no meu [painel de con
 
 Você pode fazer isso para que mensagens engraçadas sejam destacadas, para que os membros do seu servidor votem em um desenho mais bonito reagindo com a estrela na mensagem, etc. Use a criatividade! <img src="https://cdn.discordapp.com/emojis/727583763646644225.png?v=1" class="inline-emoji">
 
-{{ renderDiscordMessage("starboard_example_1.html") }}
+{{ renderDiscordMessage("starboard_example_1.html", "no_tooltips.conf") }}
 
-{{ renderDiscordMessage("starboard_example_2.html") }}
+{{ renderDiscordMessage("starboard_example_2.html", "no_tooltips.conf") }}
 
 ## Configurando o Starboard
 1. Acesse o painel de controle do seu servidor [clicando aqui](/dashboard) ou usando o comando `+painel` no seu servidor.

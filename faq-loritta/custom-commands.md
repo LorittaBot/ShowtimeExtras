@@ -1,5 +1,8 @@
 title: "Comandos Personalizados"
 ---
+
+<img src="https://i.imgur.com/gjLtnvt.png" style="text-align: center;" height="300" />
+
 Sabia que você pode criar comandos para o seu servidor? No momento, apenas comandos que enviam uma mensagem prontas são possíveis, mas ainda assim você pode criar várias coisas com isso! Siga os passos a seguir para saber como criar um e saber mais sobre eles. <img src="https://cdn.discordapp.com/emojis/673868465433477126.png?v=1" class="inline-emoji">
 
 ## Como criar um comando personalizado?
@@ -27,7 +30,7 @@ Você pode fazer várias coisas, como colocar para que eu envie o link do seu ca
 
 Quer fazer algo mais complexo? Também pode! Use a opção de [Editor Avançado](https://embed.loritta.website/) para configurar uma [embed](/extras/faq-loritta/embeds) para você ou então use [placeholders](/extras/faq-loritta/placeholders), ou... combine os dois! No [meu servidor de comunidade](https://discord.gg/lori) eu tenho um comando personalizado que combinei as duas coisas. Se você usar `+level` em um dos canais de comandos que temos lá, eu te enviarei informações sobre o seu XP no servidor. Se quiser o código da embed deste comando, [clique aqui](https://gist.github.com/MrPowerGamerBR/0d85d998e9ef656e7a6ab8b04f029380)!
 
-{{ renderDiscordMessage("level_card.html", "no_tooltips.conf", "remove-reply", "remove-message-content") }}
+{{ renderDiscordMessage("level_card.html", "no_tooltips.conf") }}
 
 ## Notas
 * No momento ainda não é possível fazer comandos que interajam com usuários, como os comandos de ação (`+kiss @user`, `+hug @user`, etc).
