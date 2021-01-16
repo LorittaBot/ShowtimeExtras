@@ -1,6 +1,6 @@
 title: "Aposte seus sonhos"
 ---
-Uma das maneiras de usar seus sonhos é apostando. Tanto com outra pessoa ou comigo, você pode sair lucrando muitos sonhos! A seguir você verá todas as formas de apostar seus sonhos. 
+Uma das maneiras de usar seus sonhos é apostando. Tanto com outra pessoa ou comigo, você pode sair lucrando muitos sonhos! Não sabe o que são sonhos? Então [clique aqui](/extras/faq-loritta/sonhos). A seguir você verá todas as formas de apostar seus sonhos.
 
 ## Coinflip: `+coinflip bet`
 Use o comando `+coinflip bet @user quantia` para apostar qualquer quantia de sonhos com outra pessoa ou até comigo! Basta que as duas pessoas tenham a quantia de sonhos que está sendo apostada. Existe 50% de chance de cada um dos usuários em uma aposta do coinflip bet ganharem os sonhos do jogo, e não, não existe modo de "bugar" esta chance (se você ainda acredita em "bug do coinflip", [clique aqui](/extras/faq-loritta/coinflip-bug)
