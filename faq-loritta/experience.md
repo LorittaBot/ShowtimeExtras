@@ -19,7 +19,7 @@ Eu sou um pouco exigente para recompensar o XP de uma mensagem! <img src="https:
 
 Se tudo der certo, o XP da mensagem é a quantidade de caracteres não repetidos / 7 e quantidade de caracteres não repetidos / 4, se o XP ultrapassar 35, eu deixo 35.
 
-## No Painel de Controle
+## Configurando os Níveis por Experiência
 1. Acesse o painel de controle do seu servidor [clicando aqui](/dashboard) ou usando o comando `+painel` no seu servidor.
 ![1° passo](https://i.imgur.com/myEkOAY.png)
 
@@ -31,6 +31,8 @@ Se tudo der certo, o XP da mensagem é a quantidade de caracteres não repetidos
 
 4. Após configurar, desça a página e procure por um botão verde escrito `Salvar`. É muito importante que você salve as configurações feitas quando você mexe no painel de controle. Prontinho! <img src="https://cdn.discordapp.com/emojis/519546310978830355.png?v=1" class="inline-emoji"> Eu irei seguir o que você pediu em questão de XP agora.
 ![4° passo](https://cdn.discordapp.com/attachments/358774895850815488/799304702806327376/unknown.png)
+
+**Atenção**: Usuários normais conseguem colocar 15 cargos por experiência no servidor deles. Já <img src="https://cdn.discordapp.com/emojis/593979718919913474.png?v=1" class="inline-emoji"> usuários premium <img src="https://cdn.discordapp.com/emojis/593979718919913474.png?v=1" class="inline-emoji">, ativando uma [key premium](/extras/faq-loritta/premium-keys) no servidor, conseguem colocar de 30 a 100 cargos! Whoosh! [Clique aqui](/donate) para tornar-se um usuário premium.
 
 ### No painel de controle você pode:
 * Configurar mensagens para que eu envie quando alguém subir de nível
