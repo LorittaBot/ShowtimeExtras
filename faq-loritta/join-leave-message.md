@@ -6,18 +6,18 @@ Anuncie quem está entrando e saindo do seu servidor da maneira que você queria
 não encher o chat com informações repetidas e muito mais!
 
 #### Comece escolhendo o servidor! Acesse o Painel de controle do servidor [clicando aqui](/dashboard) e escolha o servidor que deseja configurar!
-![Passo](https://cdn.discordapp.com/attachments/397295975175028736/800008433692180520/Sem_Titulo-3.png)
+![Passo](https://cdn.discordapp.com/attachments/397295975175028736/819936313582026782/FAQ-1.png)
 
 #### Vamos habilitar o módulo! Ao ativar é essencial que escolha as opções abaixo que quer ativar, assim ela enviará a mensagem configurada!
-![Passo2](https://cdn.discordapp.com/attachments/397295975175028736/800004766813257758/Sem_Titulo-3.png)
+![Passo2](https://cdn.discordapp.com/attachments/397295975175028736/819935803064451072/FAQ-2.png)
 
 
 ## Como configurar a entrada/saída de membros em um chat?
 **1.** Marque as opções que deseja que a Loritta envie mensagem sobre a função! Lembre-se: Tem que configurar a mensagem.
-![Passo3](https://cdn.discordapp.com/attachments/397295975175028736/800009208711086100/Sem_Titulo-3.png)
+![Passo3](https://cdn.discordapp.com/attachments/397295975175028736/819936291730096148/FAQ-3.png)
 
 **2.** **IMPORTANTE!** Escolha os canais que vão enviar mensagem de saída e entrada de membros.
-![Passo4](https://cdn.discordapp.com/attachments/397295975175028736/800004115555155988/Sem_Titulo-3.png)
+![Passo4](https://cdn.discordapp.com/attachments/397295975175028736/819937033657122856/FAQ-4.png)
 
 
 ## Como personalizar as mensagens?
@@ -50,13 +50,13 @@ não encher o chat com informações repetidas e muito mais!
 }
 ```
 **2.** Clique acima no botão **"EDITOR AVANÇADO"** e será levado a página para editar o embed, é bem simples!
-![Passo6](https://cdn.discordapp.com/attachments/397295975175028736/799997345911537686/Sem_Titulo-3.png)
+![Passo6](https://cdn.discordapp.com/attachments/397295975175028736/819937702329581608/FAQ-5.png)
 
 **3.** Agora é só clicar nas sessões e ir personalizado ao seu gosto! Lembrando de sempre por as variáveis [clicando aqui](/extras/faq-loritta/placeholders).
-![Passo7](https://cdn.discordapp.com/attachments/397295975175028736/800021170673942578/Sem_Titulo-3.png)
+![Passo7](https://cdn.discordapp.com/attachments/397295975175028736/819939076081713172/FAQ-6.png)
 
 **4.** Pronto! Agora é só ir na aba do Painel de Controle que a edição está lá, depois só ir ao fim da página e **"SALVAR"**.
-![Passo8](https://cdn.discordapp.com/attachments/397295975175028736/800000482114011186/Sem_Titulo-3.png)
+![Passo8](https://cdn.discordapp.com/attachments/397295975175028736/819939670607003678/FAQ-7.png)
 
 *P.S. Qualquer edição que você faça na página "EDITOR AVANÇADO" é colocado automaticamente no código, não FECHE o Painel de Controle.*
 
@@ -69,7 +69,7 @@ não encher o chat com informações repetidas e muito mais!
 
 ## Configurando sem Embed:
 **1.** Coloque a mensagem que deseja na caixa de diálogo, lembrando de colocar as [variáveis](/extras/faq-loritta/placeholders) junto.
-![Passo9](https://cdn.discordapp.com/attachments/397295975175028736/800012222793252874/Sem_Titulo-3.png)
+![Passo9](https://cdn.discordapp.com/attachments/397295975175028736/819941367559880705/FAQ-9.png)
 
 **2.** Pronto! É só salvar como preferir, essa configuração também vale para as outras funções como "Saída de membro".
 
@@ -78,17 +78,17 @@ não encher o chat com informações repetidas e muito mais!
 ## Como apago a mensagem da Loritta após a entrada/saída?
 Para você que configurou a entrada de membros no `#bate-papo` do seu servidor e quer evitar a poluição ou só quer que depois de um tempo seja apagado, tem a opção que a Loritta
 apaga a mensagem depois de uns tempo, basta ir abaixo da **"Mensagem de personalização"** de entrada e saída de membro e configurar o delay em segundos.
-![Passo11](https://cdn.discordapp.com/attachments/397295975175028736/800016967783153684/Sem_Titulo-3.png)
+![Passo11](https://cdn.discordapp.com/attachments/397295975175028736/819941755251458088/FAQ-11.png)
 
 ## Como configuro pra Loritta enviar na DM após entrar?
 **1.** Habilite nas configurações iniciais  *"Ativar as mensagens enviadas nas mensagens diretas do usuário quando alguém entrar"*.
-![Passo12](https://cdn.discordapp.com/attachments/397295975175028736/800018245083332648/Sem_Titulo-3.png)
+![Passo12](https://cdn.discordapp.com/attachments/397295975175028736/819942428396093450/FAQ-12.png)
 
 **2.** Na caixa de diálogo digite a mensagem ou cole o código embed [clicando aqui para ver os templates](/extras/faq-loritta/embeds).
-![Passo13](https://cdn.discordapp.com/attachments/397295975175028736/800019347552337961/Sem_Titulo-3.png)
+![Passo13](https://cdn.discordapp.com/attachments/397295975175028736/819942903261429760/Sem_Titulo-13.png)
 
 **3.** Pronto! Toda vez que algum membro entrar no seu servidor (que tiver o privado aberto), receberá a mensagem dando boas vindas!
-![Passo14](https://cdn.discordapp.com/attachments/397295975175028736/800020159996887100/Sem_Titulo-3.png)
+![Passo14](https://cdn.discordapp.com/attachments/397295975175028736/819944305346478090/Sem_Titulo-14.png)
 
 ## Como vejo outros templates de embeds?
 Para ver outros templates você pode [clicar aqui](/extras/faq-loritta/embeds) e ver quais outras formas de personalizar o seu lindo servidor tem disponível, como também
