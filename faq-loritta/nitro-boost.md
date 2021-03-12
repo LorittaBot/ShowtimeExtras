@@ -44,6 +44,6 @@ Sim! Você pode misturar o seu boost (que conta como doação) com doações fei
 Ou seja, se você tem um boost aqui e você doou 19,99 reais, eu irei considerar que você doou 39,99 reais, assim você terá as vantagens de quem doa 39,99 reais (Como, por exemplo, não pagar taxas no `+coinflip bet`, `+rifa` e em outras coisas minhas). [Clique aqui](/donate) para doar!
 
 ## Lista de servidores para boost
-Entre no meu [servidor de comunidade](https://discord.gg/lori) e procure pelo canal de texto `#🚀│nitro-boosters` para ver a lista. Já está lá e quer praticidade? Então [clique aqui](https://discord.com/channels/297732013006389252/663098645767258113/681474891870240769) (é o link da mensagem). 
+Entre no meu [servidor de comunidade](https://discord.gg/lori) e procure pelo canal de texto <span class="discord-mention">#🚀│nitro-boosters</span> para ver a lista. Já está lá e quer praticidade? Então [clique aqui](https://discord.com/channels/297732013006389252/663098645767258113/681474891870240769) (é o link da mensagem). 
 
 Recomendo que você sempre verifique se o servidor que está nesta lista tenha menos de 40 boosts, já que às vezes eu posso cometer enganos e colocar servidores que já passaram dos 40. Errar é humano, né, mas no meu caso... <img src="https://cdn.discordapp.com/emojis/626942886461833217.png?v=1" class="inline-emoji">
