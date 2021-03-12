@@ -28,16 +28,16 @@ Veja o exemplo do comando a seguir, você pode passar o cursor do mouse em cima 
 
 Você pode ver os valores das ações e se a bolsa está aberta utilizando `+broker`, caso ela esteja com <img src="https://cdn.discordapp.com/emojis/639993552113500172.png?v=1" class="inline-emoji" /> 
 
-* :lori_rica: Se você usar apenas +broker a Loritta irá mostrar todas as ações disponíveis e se elas estão se movimentando, caso as ações estejam se 
+* <img src="https://cdn.discordapp.com/attachments/791394958031585330/803055797201272833/lori_rica.png" class="inline-emoji"> Se você usar apenas +broker a Loritta irá mostrar todas as ações disponíveis e se elas estão se movimentando, caso as ações estejam se 
 movimentando elas estarão com um ":online:" antes do nome. Ou se elas estiverem fechadas irá aparecer isto ":dnd:";
 
-* :lori_ameno: Já que a Loritta acompanha a bolsa da vida real, as ações só se movimentam em dias úteis (seg à sex);
+* <img src="https://cdn.discordapp.com/attachments/791394958031585330/803056023383965706/lori_ameno.png" class="inline-emoji"> Já que a Loritta acompanha a bolsa da vida real, as ações só se movimentam em dias úteis (seg à sex);
 
-* :lori_thinking~1: Para comprar as ações você pode utilizar +broker comprar <TICKER_DA_AÇÃO> [quantidade];
+* <img src="https://cdn.discordapp.com/attachments/791394958031585330/803056239398354954/lori_thinking.png" class="inline-emoji"> Para comprar as ações você pode utilizar +broker comprar <TICKER_DA_AÇÃO> [quantidade];
 
-* :lori_shrug1: A quantidade de ações que você vai comprar é opcional, se você não colocar uma "quantidade" vai fazer a Loritta comprar apenas apenas 1 ação;
+* <img src="https://cdn.discordapp.com/attachments/791394958031585330/803056382118330438/lori_shrug1.png" class="inline-emoji"> A quantidade de ações que você vai comprar é opcional, se você não colocar uma "quantidade" vai fazer a Loritta comprar apenas apenas 1 ação;
 
-* :lori_barf: Para vender as ações que você comprou você pode utilizar o +broker vender <TICKER_DA_AÇÃO> [quantidade];
+* <img src="https://cdn.discordapp.com/attachments/791394958031585330/803056515316449351/lori_barf.png" class="inline-emoji"> Para vender as ações que você comprou você pode utilizar o +broker vender <TICKER_DA_AÇÃO> [quantidade];
 
 * :bug: Para ver as ações que você comprou e ver se você lucrou com elas ou não você pode usar +broker p/portfólio/portfolio;
 
