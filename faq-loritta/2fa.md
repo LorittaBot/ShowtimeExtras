@@ -1,4 +1,5 @@
 title: "Autenticação em Duas Etapas"
+authors: [ "mrpowergamerbr" ]
 ---
 Autenticação Dupla (também conhecido como Autenticação em Duas Etapas ou 2FA) é uma funcionalidade do Discord (e de outras plataformas). O nome é "Autenticação em Duas Etapas" já que, na hora que você tentar fazer login, irá pedir um código gerado pelo seu celular (Assim sendo duas etapas: Uma que é o seu email/senha, outra que é o código). 2FA é extremamente útil para proteger a sua conta contra hackers que conseguiram o seu email e senha, já que eles também teriam que ter o seu celular para conseguir logar, assim dando chance para você configurar uma nova senha antes que o hacker consiga invadir a sua conta.
 

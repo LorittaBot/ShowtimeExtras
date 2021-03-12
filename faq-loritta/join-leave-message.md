@@ -1,4 +1,5 @@
 title: "Como habilitar e configurar a mensagem de entrada e saída."
+authors: [ "ranni" ]
 ---
 <img src="https://cdn.discordapp.com/attachments/397295975175028736/799989411063398400/loritta_welcomer.png" style="text-align: center;" height="300" />
 Anuncie quem está entrando e saindo do seu servidor da maneira que você queria! Envie mensagens para novatos via mensagem direta com informações sobre o seu servidor para 

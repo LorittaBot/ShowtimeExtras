@@ -1,4 +1,5 @@
 title: "Autorole"
+authors: [ "arth" ]
 ---
 O autorole é um sistema em que eu dou um ou mais cargos, definidos por você, para um membro que acabou de chegar no seu servidor! A seguir terá um tutorial de como configurar este sistema no seu servidor.
 
@@ -6,10 +7,10 @@ O autorole é um sistema em que eu dou um ou mais cargos, definidos por você, p
 
 ## Configurando o Autorole
 1. Acesse o painel de controle do seu servidor [clicando aqui](/dashboard) ou usando o comando `+painel` no seu servidor.
-![1° passo](https://i.imgur.com/myEkOAY.png)
+![1° passo](/v3/assets/img/faq/servers.png)
 
 2. Ao acessar o painel, você começará pelo módulo Configurações Gerais. Procure então pelo módulo Autorole na lista à sua esquerda.
-![2° passo](https://i.imgur.com/HU53RFB.png)
+![2° passo](/v3/assets/img/faq/find_module.png)
 
 3. Quando já estiver no módulo de Autorole, ative o módulo e você já poderá começar a configurar. Selecione o(s) cargo(s) que você quer que eu dê para os novos membros do servidor e, se quiser, estabeleça um tempo (em segundos) para que eu dê o cargo para o novo membro ou ative a opção de eu dar o cargo apenas quando ele mandar uma mensagem. Prontinho! <img src="https://cdn.discordapp.com/emojis/519546310978830355.png?v=1" class="inline-emoji">
-![3° passo](https://i.imgur.com/gZyeuPy.png)
+![3° passo](/v3/assets/img/faq/configuration.png)

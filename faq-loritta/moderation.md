@@ -1,4 +1,5 @@
 title: "Moderação"
+authors: [ "nightdavisao" ]
 ---
 A Loritta tem um **módulo de moderação** no Dashboard.  
 Configurando ele, você pode definir um canal para anunciar punições feitas com os comandos.  

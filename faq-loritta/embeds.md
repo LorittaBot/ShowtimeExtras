@@ -1,7 +1,9 @@
 title: "Embeds"
+authors: [ "peterstark000", "mrpowergamerbr" ]
 ---
-
-<img src="https://i.imgur.com/wCuDA4D.png" style="text-align: center;" height="300" />
+<div class="centered-text">
+<img src="/v3/assets/img/faq/embeds/banner.png" height="300" />
+</div>
 
 Embeds são um tipo especial de mensagem no Discord, você provavelmente já viu elas antes... aquelas caixinhas que possuem uma corzinha na esquerda e que ainda por cima podem ter imagens, autor, footer e muito mais! Sim, elas são bonitas, e é claro que a Loritta suporta elas também!
 
@@ -24,7 +26,9 @@ Embeds são formatadas em JSON, baseado no jeito que o Discord envia embeds.
 
 O website da Loritta tem o seu próprio editor de embeds, isto facilita muito tanto para vocês e para nós, já que reaproveitamos a renderização de mensagens do website do Embed Editor para o website da Loritta. Se você não conhecer o editor de embeds ainda, basta [clicar aqui](https://embeds.loritta.website/) para ser redirecionado para ele.
 
-<img src="https://i.imgur.com/VW9OFac.png" style="text-align: center;" height="300" />
+<div class="centered-text">
+<img src="/v3/assets/img/faq/embeds/embed_editor.png" height="300" />
+</div>
 
 *Print demonstrativa do Editor de Embeds, para começar a edição clique em "Adicionar embed".*
 
@@ -134,7 +138,7 @@ Para você ver como é feito os embeds, deixamos alguns embeds prontos para voc�
 }
 ```
 
-### Mensagem de Level UP
+### Mensagem de Level Up
 ```json
 {
   "content": "{@user}",

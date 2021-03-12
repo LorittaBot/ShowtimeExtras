@@ -1,7 +1,9 @@
-title: "Fan arts para a Loritta"
+title: "Fan Arts para a Loritta"
+authors: [ "peterstark000" ]
 ---
-
-<img src="https://i.imgur.com/3IwjHvW.png" style="text-align: center;" height="300" />
+<div class="centered-text">
+<img src="/v3/assets/img/faq/fanarts/banner.png" height="300" />
+</div>
 
 Sabia que existem pessoas que fazem artes maravilhosas de mim só porque eu ajudei no servidor delas? Eu até me derreto por dentro com tanta arte fofa de mim! <img src="https://cdn.discordapp.com/emojis/593980911335505940.png?v=1" class="inline-emoji">
 
@@ -27,14 +29,14 @@ Exemplos de Artes Digitais:
 * Utilize jpg para economizar espaço!
 * A foto do desenho deverá ser decente, ou seja: Com iluminação boa, focado corretamente e rotacionado na posição correta; Quanto mais claro e fácil de ser visualizado, melhor!
 Exemplos de Artes no Papel:
-![Desenho de Allouette](https://cdn.discordapp.com/attachments/583406099047252044/589123182401814558/IMG_20190614_130121149.jpg)
+![Desenho de Allouette](/v3/assets/img/faq/fanarts/allouette_drawing.jpg)
 
 ### Retomando...
 * Envie a imagem no Discord (em vez de enviar a imagem em outros websites e depois enviar o link no canal)
 * Queremos provas (prints da tela, esboço do desenho, foto da tela do PC, etc.) que foi você que fez o desenho, mande fotos do processo da arte junto com o desenho! <img src="https://cdn.discordapp.com/emojis/626942886583205898.png?v=1" class="inline-emoji">
 Exemplos de Provas:
-![Prova em GIF ou vídeo](https://cdn.discordapp.com/attachments/279703854990360586/568166247372423246/processgif_hope.gif)
-![Prova em print (Mostrando as camadas)](https://cdn.discordapp.com/attachments/279703854990360586/568166421377449985/Nova_tela_de_pinturapao.png)
+![Prova em GIF ou vídeo](/v3/assets/img/faq/fanarts/heathecliff_hope.gif)
+![Prova em print (Mostrando as camadas)](/v3/assets/img/faq/fanarts/heathecliff_process.png)
 * Não aceitamos desenhos feitos por cima de uma base ou plagiados, esse tipo de conteúdo não será tolerado quando não creditado dentro do servidor e não poderá ser usado como forma de ganhar cargo!
 * A arte precisa estar caprichada, faça a fan art com muito amor, carinho e dedicação! Sabemos que existem artistas de diferentes estilos e potencial aqui, porém não é legal fazer qualquer rabisco apenas para ganhar o cargo.
 * Depois de enviar a fan art, aguarde a equipe ver, analisar e aprovar (ou não! A equipe pode rejeitar o seu desenho e ela não irá precisar escalarecer o motivo dela ter sido rejeitada) o seu desenho. Não fique o incomodando a equipe do servidor insistindo para que aprovem logo! Lembre que isso leva um tempo e o único bot aqui é a Loritta, de resto somos humanos que muitas vezes estamos ocupados e temos outras responsabilidades no nosso dia-a-dia! Se você ficar insistindo, você será punido por "mendigar o cargo de desenhista". <img src="https://cdn.discordapp.com/emojis/741058240455901254.png?v=1" class="inline-emoji">
@@ -59,5 +61,10 @@ Existem essas duas cores diferentes para demonstrar o equilíbrio entre o que a 
 
 Atualmente temos dois **Ref Sheets** principais sobre a Loritta, um de cores e outro de outfits dela, você pode usar eles para obter a coloração correta das cores da Loritta. **Não utilize o Ref Sheet com príncipios para Tracing ou qualquer coisa do tipo, não vamos permitir ações do tipo, e você pode ser banido da Loritta se tentar plagiar ou traçar algum artista dela.**
 
-![Reference Sheet feito pela Heathecliff](https://i.imgur.com/XqGkjOy.png)
-![Reference Sheet feito pela Allouette](https://media.discordapp.net/attachments/358774895850815488/799814634344939561/loritta_outfits.png)
+## Reference Sheet feito pela Heathecliff
+
+![Reference Sheet feito pela Heathecliff](/v3/assets/img/faq/fanarts/heathecliff_ref_sheet.png)
+
+## Reference Sheet feito pela Allouette
+
+![Reference Sheet feito pela Allouette](/v3/assets/img/faq/fanarts/allouette_ref_sheet.png)

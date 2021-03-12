@@ -1,4 +1,5 @@
-title: "Sonhos: como Conseguir e Gastar"
+title: "Sonhos: Como Conseguir e Gastar"
+authors: [ "arth" ]
 ---
 Os sonhos são a minha economia. Você pode usá-los para comprar várias coisas dentro das minhas funcionalidades. A seguir você verá maneiras de conseguir sonhos e gastar sonhos. <img src="https://cdn.discordapp.com/emojis/593979718919913474.png?v=1" class="inline-emoji">
 
@@ -10,7 +11,7 @@ Os sonhos são a minha economia. Você pode usá-los para comprar várias coisas
 * Recebendo doações/pagamentos (`+pay @user quantia`).
 * [Apostando seus sonhos](/extras/faq-loritta/betting-sonhos).
 * Trocando garticos, a economia do [GarticBot](https://top.gg/bot/487328045275938828), por sonhos (use `gb.garticos sonhos quantia` no [Discord do Gartic](https://discord.gg/gartic)).
-* Transferindo os sonhos que você conseguiu no Sparkly Power, meu servidor de Minecraft com a Pantufa, para o Discord (use `-lsx` no [Discord do Sparkly Power](https://discord.gg/sparklypower).  <img src="https://cdn.discordapp.com/emojis/672779636878606346.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779665366319104.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779686098501643.png?v=1" class="inline-emoji">
+* Transferindo os sonhos que você conseguiu no SparklyPower, meu servidor de Minecraft com a Pantufa, para o Discord (use `-lsx` no [Discord do SparklyPower](https://discord.gg/sparklypower).  <img src="https://cdn.discordapp.com/emojis/672779636878606346.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779665366319104.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779686098501643.png?v=1" class="inline-emoji">
 * Votando em mim na [Discord Bot List](https://discordbots.org/bot/loritta) (sabia que a cada 60 votos em mim você ganha uma [key premium](/extras/faq-loritta/premium-keys)?).
 * Lucrando em ações da [Loritta's Home Broker](/extras/faq-loritta/loritta-home-broker). <img src="https://cdn.discordapp.com/emojis/788434890927505448.png?v=1" class="inline-emoji">
 * Comprando o meu premium. Em doações a partir de R$19,99 você pode ganhar sonhos por minuto! [Clique aqui](/donate) para comprar.
@@ -22,5 +23,5 @@ Os sonhos são a minha economia. Você pode usá-los para comprar várias coisas
 * Fazendo doações/pagamentos (`+pay @user quantia`).
 * [Personalizando o seu `+perfil`](/extras/faq-loritta/profile-customization).
 * Mudando a porcentagem do seu `+ship` com outro usuário. [Clique aqui](/extras/faq-loritta/love) para saber mais. <img src="https://cdn.discordapp.com/emojis/519901735666581514.png?v=1" class="inline-emoji">
-* Transferindo os sonhos que você conseguiu no Discord para o Sparkly Power, meu servidor de Minecraft com a Pantufa (use `-lsx` no [Discord do Sparkly Power](https://discord.gg/sparklypower)). <img src="https://cdn.discordapp.com/emojis/672779636878606346.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779665366319104.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779686098501643.png?v=1" class="inline-emoji">
+* Transferindo os sonhos que você conseguiu no Discord para o SparklyPower, meu servidor de Minecraft com a Pantufa (use `-lsx` no [Discord do SparklyPower](https://discord.gg/sparklypower)). <img src="https://cdn.discordapp.com/emojis/672779636878606346.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779665366319104.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779686098501643.png?v=1" class="inline-emoji">
 * Falindo em ações da [Loritta's Home Broker](/extras/faq-loritta/loritta-home-broker). <img src="https://cdn.discordapp.com/emojis/651151532846481408.png?v=1" class="inline-emoji">

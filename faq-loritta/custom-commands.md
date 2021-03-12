@@ -1,27 +1,29 @@
 title: "Comandos Personalizados"
+authors: [ "arth", "peterstark000" ]
 ---
-
-<img src="https://i.imgur.com/gjLtnvt.png" style="text-align: center;" height="300" />
+<div class="centered-text">
+<img src="/v3/assets/img/faq/custom_commands/banner.png" height="300" />
+</div>
 
 Sabia que você pode criar comandos para o seu servidor? No momento, apenas comandos que enviam uma mensagem prontas são possíveis, mas ainda assim você pode criar várias coisas com isso! Siga os passos a seguir para saber como criar um e saber mais sobre eles. <img src="https://cdn.discordapp.com/emojis/673868465433477126.png?v=1" class="inline-emoji">
 
 ## Como criar um comando personalizado?
 1. Acesse o painel de controle do seu servidor [clicando aqui](/dashboard) ou usando o comando `+painel` no seu servidor.
-![1° passo](https://cdn.discordapp.com/attachments/358774895850815488/799082003382796308/unknown.png)
+![1° passo](/v3/assets/img/faq/custom_commands/1.png)
 
 2. Ao acessar o painel, procure pelo módulo Comandos Personalizados na lista à sua direita.
-![2.1° passo](https://cdn.discordapp.com/attachments/358774895850815488/799082629848105010/unknown.png)
-![2.2° passo](https://cdn.discordapp.com/attachments/358774895850815488/799084104716517376/unknown.png)
+![2.1° passo](/v3/assets/img/faq/custom_commands/2.1.png)
+![2.2° passo](/v3/assets/img/faq/custom_commands/2.2.png)
 
 3. Agora que você já está no módulo, basta clicar em `Adicionar` e selecionar `Comando de Texto` para começar suas criações!
-![3° passo](https://cdn.discordapp.com/attachments/358774895850815488/799083227632893992/unknown.png)
+![3° passo](/v3/assets/img/faq/custom_commands/3.png)
 
 4. Abrirá um pop-up com as informações para você preencher ao fazer isso. Então aí que começa a mágica! Primeiro você coloca o nome do comando que você quer, e como diz no aviso, não coloque o meu prefixo no nome do comando (prefixo é o caractere que você configura para colocar antes de usar qualquer comando, como o `+`, o meu prefixo padrão). Depois, na caixa de texto embaixo, você preenche o que quiser que eu fale toda vez que alguém usar um comando!
-![4° passo](https://cdn.discordapp.com/attachments/358774895850815488/799083310328315924/unknown.png)
+![4° passo](/v3/assets/img/faq/custom_commands/4.png)
 
 5. Depois de preenchido, clique em `Salvar` no pop-up e no botão verde da página. Prontinho!  <img src="https://cdn.discordapp.com/emojis/519546310978830355.png?v=1" class="inline-emoji"> Agora eu irei responder os membros do seu servidor quando usarem um comando com o nome que você colocou.
-![5.1° passo](https://cdn.discordapp.com/attachments/358774895850815488/799084763360788490/unknown.png)
-![5.2° passo](https://cdn.discordapp.com/attachments/358774895850815488/799084104716517376/unknown.png)
+![5.1° passo](/v3/assets/img/faq/custom_commands/5.1.png)
+![5.2° passo](/v3/assets/img/faq/custom_commands/5.2.png)
 
 **Atenção**: Colocar qualquer coisa NSFW nos comandos personalizados como em qualquer outra seção do painel resultará no seu ban permanente do uso das minhas funções! <img src="https://cdn.discordapp.com/emojis/395010059157110785.png?v=1" class="inline-emoji"> Não se engane, nós sabemos quando você faz isso. [Clique aqui](/guidelines) para ler as minhas guidelines.
 

@@ -1,4 +1,5 @@
 title: "Tudo sobre o Bom Dia & Cia na Loritta"
+authors: [ "arth" ]
 ---
 Para quem não sabe o que é o programa de TV do Bom Dia & Cia, bem, você não teve infância e eu não vou explicar. <img src="https://cdn.discordapp.com/emojis/763231811723460629.png?v=1" class="inline-emoji">
 
@@ -8,20 +9,20 @@ Quando alguém ganha eu anúncio o nome do vencedor e o servidor que ele ganhou 
 
 Você não pode copiar e colar a frase que eu anunciei, não tente ligar sem que eu tenha anunciado o programa e não ligue se uma pessoa já ganhou. Se tentar fazer isto falhará miseravelmente e estará jogando seus sonhos fora... Cada ligação custa 75 sonhos! 
 
-A mensagem abaixo é um exemplo de um anúncio do Bom Dia & Cia que eu faço. Infelizmente ainda não sou rica o suficiente pra dar um PlayStation pra todo mundo que liga primeiro no Bom Dia & CIA... <img src="https://cdn.discordapp.com/emojis/626942886251855872.png?v=1" class="inline-emoji">
+A mensagem abaixo é um exemplo de um anúncio do Bom Dia & Cia que eu faço. Infelizmente ainda não sou rica o suficiente pra dar um PlayStation pra todo mundo que liga primeiro no Bom Dia & Cia... <img src="https://cdn.discordapp.com/emojis/626942886251855872.png?v=1" class="inline-emoji">
 {{ renderDiscordMessage("bomdiaecia_announcement.html", "no_tooltips.conf") }}
 
-Neste FAQ você encontrará como ativar o sistema do Bom Dia & Cia no seu servidor, todas as frases que eu posso anunciar e a relação entre o meu sistema de clusters e o Bom Dia & CIA.
+Neste FAQ você encontrará como ativar o sistema do Bom Dia & Cia no seu servidor, todas as frases que eu posso anunciar e a relação entre o meu sistema de clusters e o Bom Dia & Cia.
 
 ## Como eu ativo o sistema no meu servidor?
 1. Acesse o painel de controle do seu servidor [clicando aqui](/dashboard) ou usando o comando `+painel` no seu servidor.
-1[1° passo](https://cdn.discordapp.com/attachments/358774895850815488/798620452611817502/unknown.png)
+![1° passo](/v3/assets/img/faq/servers.png)
 
 2. Ao acessar o painel, procure pelo módulo Miscelânea na lista de módulos à sua esquerda. Achou? Então clique.
-![2° passo](https://i.imgur.com/hojBZuE.png)
+![2° passo](/v3/assets/img/faq/find_module.png)
 
 3. Procure por Bom Dia & Cia. Do lado disso terá um botão como este aqui "<img src="https://cdn.discordapp.com/emojis/769354477525401611.png?v=1" class="inline-emoji">" para você ativar o sistema. Ao ativar, clique em Salvar e pronto! <img src="https://cdn.discordapp.com/emojis/519546310978830355.png?v=1" class="inline-emoji"> Embaixo da opção de Bom Dia & Cia você também encontrará o Modo Tosco, que é um modo em que eu solto piadas e reações aleatórias no seu chat quando tiverem pessoas conversando nele.
-![3° passo](https://i.imgur.com/Sp3ZYYp.png)
+![3° passo](/v3/assets/img/faq/configuration.png)
 
 ## Clusters e o Bom Dia & Cia
 Se você não sabe o que é o meu sistema de clusters e quer saber o que é, então [clique aqui](/extras/faq-loritta/clusters-and-shards) que eu irei te redirecionar para a minha outra página do FAQ. 
