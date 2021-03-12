@@ -1,15 +1,15 @@
-title: "Fanarts para a Loritta"
+title: "Fan arts para a Loritta"
 ---
 
 <img src="https://i.imgur.com/3IwjHvW.png" style="text-align: center;" height="300" />
 
 Sabia que existem pessoas que fazem artes maravilhosas de mim só porque eu ajudei no servidor delas? Eu até me derreto por dentro com tanta arte fofa de mim! <img src="https://cdn.discordapp.com/emojis/593980911335505940.png?v=1" class="inline-emoji">
 
-Então para mostrar as incríveis artes que fizeram, eu resolvi criar [uma página](https://loritta.website/br/fanarts) que mostra as fan arts que fizeram! Obrigada a todos que fizeram estas fan arts  <img src="https://cdn.discordapp.com/emojis/562303822978875403.png?v=1" class="inline-emoji">, eu fico feliz que existe tanta gente assim que gosta do que eu faço!
+Então para mostrar as incríveis artes que fizeram, eu resolvi criar [uma página](https://loritta.website/br/fanarts) que mostra as fan arts que fizeram! Obrigada a todos que fizeram estas fan arts <img src="https://cdn.discordapp.com/emojis/562303822978875403.png?v=1" class="inline-emoji">, eu fico feliz que existe tanta gente assim que gosta do que eu faço!
 
-## Como enviar uma fanart?
+## Como enviar uma fan art?
 
-Então ao enviar a sua fanart, você ganha de brinde um cargo! Yay!
+Então ao enviar a sua fan art, você ganha de brinde um cargo! Yay!
 1. Leia e siga todas as regras dos <span class="discord-mention">#📕│regras desenhistas</span> e das <span class="discord-mention">#📝│regras</span> (Canais do [Servidor Comunidade](/support), entre neles se você quiser enviar uma fanart!); Se você quebrar alguma regra, a sua fan art será rejeitada!
 2. Após terminar a sua fan art, use `+enviarfanart` no <span class="discord-mention">#🤖│comandos-raiz</span> para receber o cargo de <span class="discord-mention">@🤷🎨 Fan Art em Espera</span>, isto irá te dar acesso ao <span class="discord-mention">#💓│primeira fan art</span> (Caso você não esteja encontrando: O canal fica na categoria de "🎨 | Sala da Criatividade".
 3. Ao entrar no canal, envie o seu desenho (junto com as etapas de desenvolvimento dela) e, se quiser, envie uma descrição sobre ele e espere a sua fan art ser aprovada! <img src="https://cdn.discordapp.com/emojis/521721811298156558.gif?v=1" class="inline-emoji">
