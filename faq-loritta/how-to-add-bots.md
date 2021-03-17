@@ -1,6 +1,11 @@
 title: "Como Adicionar Bots no Discord"
 authors: [ "peterstark000", "mrpowergamerbr" ]
 ---
+<div class="centered-text">
+<img src="/v3/assets/img/categories/discord/discord_264w.png" height="300" />
+</div>
+
+
 ## O que são Bots??
 
 Para deixar o seu servidor mais legal e divertido, existem bots (robôs <img src="https://media.discordapp.net/attachments/547119872568459284/821742323993804820/b67e65c2ab0428da786c1f53ebfd4243.png" class="inline-emoji">) que você pode adicionar em seu servidor no Discord! Bots podem te ajudar de diversas maneiras em seu servidor: Para entreter os membros do seu servidor, para te ajudar a moderar o servidor, tocar uma musiquinha e muito mais!
