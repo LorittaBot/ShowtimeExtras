@@ -1,4 +1,5 @@
 title: "Loritta's Home Broker"
+authors: [ "mrpowergamerbr" ]
 ---
 <div class="centered-text">
 <img src="https://i.imgur.com/FrSMGpZ.png" height="300" />
