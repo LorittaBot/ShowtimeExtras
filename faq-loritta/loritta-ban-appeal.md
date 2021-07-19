@@ -5,7 +5,9 @@ authors: [ "mrpowergamerbr" ]
 
 Se você foi banido de usar a Loritta, você tem direito a ter uma segunda chance fazendo um apelo para perdoarem o motivo do seu ban.
 
-Nesta página, quando estamos dizendo que é para "esperar X meses", significa que é para esperar X meses desde a data que você foi banido de usar a Loritta. A data de quando você foi banido aparece quando alguém tenta visualizar o seu perfil com o comando `+perfil` da Loritta.
+Nesta página, quando estamos dizendo que é para "esperar X meses", significa que é para esperar X meses desde a data que você foi banido de usar a Loritta ANTES DE FAZER UM APELO. A data de quando você foi banido aparece quando alguém tenta visualizar o seu perfil com o comando `+perfil` da Loritta.
+
+**Exemplo:** Se você foi banido por "Criar múltiplas contas para farmar sonhos no daily" em 30/03/2021, você só poderá fazer o apelo em 30/12/2021. Se você fazer o apelo antes da data, o seu apelo será rejeitado e você perderá a única chance que você tem para conseguir ser desbanido!
 
 ## Regras para Apelos
 * Você apenas possui uma chance para fazer um apelo, caso o seu apelo for rejeitado, você não terá uma outra chance!
