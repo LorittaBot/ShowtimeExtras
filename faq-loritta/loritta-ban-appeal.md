@@ -45,18 +45,15 @@ Se você foi banido de usar a Loritta, você tem direito a ter uma segunda chanc
 
 ## Motivos Especiais
 
-### Evasão de Ban
-* Caso você tenha tentado evadir bans em outras contas, o tempo de espera é o tempo da lista abaixo, somando mais um mês para cada conta que você criou para evadir o ban.
-
-### Mentir para a equipe da Loritta
-* Se você mentiu para a equipe da Loritta, o tempo de espera é o tempo da lista abaixo, somando mais três meses.
-
 ### Múltiplos motivos no seu banimento
 * Se você possui múltiplos motivos no seu banimento, você deverá usar como tempo base a infração que tem o maior tempo de espera, e aí somar com os restos das infrações dividido por dois, e assim você terá o tempo que você precisa esperar.
 * **Exemplo:** Se você foi banido por "Criar múltiplas contas para farmar sonhos no daily" e "Comércio de Sonhos (Venda)", você deverá somar 18 + (9 / 2), que dá 22,5. Logo você terá que esperar 22,5 meses antes de enviar um apelo.
 
-### Pessoas que te conhecem ficaram perturbando a equipe da Loritta para ser desbanido
-* Nós temos o formulário de apelo justamente para poder desbanir pessoas, se pessoas que te conhecem foram perturbar a equipe só para tentar fazer que você seja desbanido, o seu apelo será rejeitado.
+### Evasão de Ban
+* Caso você tenha tentado evadir bans em outras contas, o tempo que você deverá esperar está na lista abaixo, somando mais um mês para cada conta que você criou para evadir o ban.
+
+### Mentir para a equipe da Loritta
+* Se você mentiu para a equipe da Loritta, o tempo que você deverá esperar está na lista abaixo, e aí você soma mais três meses.
 
 ## Tempo mínimo de bans necessários antes de pedir um apelo
 
