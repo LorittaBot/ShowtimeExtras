@@ -80,6 +80,10 @@ Nesta página, quando estamos dizendo que é para "esperar X meses", significa q
 * **Exceção:** Vendas de conteúdos ilegais, conteúdos de procedência duvidosa ou conteúdos NSFW não possuem direito a um apelo.
 * **Exceção:** Caso você tenha divulgado as suas vendas em servidores relacionados a Loritta, o ban é permanente e o apelo será rejeitado.
 
+### Comércio de Sonhos (Servidor de Rewards/Apenas da Equipe)
+* Apenas para pessoas que não interagiram no chat/reações/etc antes da mensagem de venda feita por um superior na equipe, caso tenha interagido depois, as regras de "Comércio de Sonhos (Venda)" são as que valem
+* Você precisa esperar 3 meses antes de fazer um apelo
+
 ### Abuso de Bugs/Exploits
 * Você precisa esperar 36 meses antes de fazer um apelo
 * Você irá perder todos os sonhos da sua conta
