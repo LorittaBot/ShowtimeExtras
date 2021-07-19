@@ -6,12 +6,12 @@ authors: [ "mrpowergamerbr" ]
 Se você foi banido de usar a Loritta, você tem direito a ter uma segunda chance fazendo um apelo para perdoarem o motivo do seu ban.
 
 ## Regras para Apelos
-* Você apenas ppssui uma chance para fazer um apelo, caso o seu apelo for rejeitado, você não terá uma outra chance!
+* Você apenas possui uma chance para fazer um apelo, caso o seu apelo for rejeitado, você não terá uma outra chance!
 * Usar a Loritta não é um direito, e sim um privilégio! Nós não somos obrigados a te desbanir só porque você ficou arrependido do que você fez.
 * Insistir para a equipe da Loritta verificar seu apelo fará ele ser rejeitado.
 * Você é obrigado a verificar se já passou tempo suficiente desde o dia que você foi banido de usar a Loritta em nossa lista de motivos de ban abaixo. Caso você crie um apelo antes do tempo suficiente ter passado, o seu apelo será rejeitado e você não terá outra chance de fazer um novo apelo para ser desbanido!
 * A equipe reserva o direito de aceitar ou rejeitar apelos da forma que ela preferir. A equipe não é obrigada a justificar o motivo para a gente ter aceitado ou rejeitado um apelo.
-* Pedir unban fora do formulário, como em canais de suporte ou em outros servidores, é proibido e fará seu apelo será rejeitado.
+* Pedir unban fora do formulário, como em canais de suporte ou em outros servidores, é proibido e fará seu apelo ser rejeitado.
 * Se "amigos" seus começarem a perturbar a equipe pedindo para que você seja desbanido, nós iremos entender que você mesmo pediu para eles fazerem isso, e isso fará seu apelo ser rejeitado.
 * Se você foi babaca com membros e/ou com a equipe da Loritta, o seu apelo será rejeitado.
 
