@@ -7,7 +7,7 @@ O autorole é um sistema em que eu dou um ou mais cargos, definidos por você, p
 
 ## Configurando o Autorole
 1. Acesse o painel de controle do seu servidor [clicando aqui](/dashboard) ou usando o comando `+painel` no seu servidor.
-![1° passo](/v3/assets/img/faq/autorole/servers.png)
+![1° passo](/v3/assets/img/faq/servers.png)
 
 2. Ao acessar o painel, você começará pelo módulo Configurações Gerais. Procure então pelo módulo Autorole na lista à sua esquerda.
 ![2° passo](/v3/assets/img/faq/autorole/find_module.png)
