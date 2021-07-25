@@ -9,7 +9,7 @@ Experiência você ganha conversando nos canais de texto do seu servidor. Você 
 
 Você pode ver o rank de experiência do seu servidor usando `+rank` e o rank global usando `+rank global`.
 
-Nesta seção você vera as regras que eu sigo para dar XP em uma mensagem, o módulo de Níveis por Experiência no painel de controle, coisas que você pode configurar no painel de controle em relação ao XP no seu servidor e como fazer um comando de cartão de perfil para o seu servidor. <img src="https://cdn.discordapp.com/emojis/731873534036541500.png?v=1" class="inline-emoji">
+Nesta seção você verá as regras que eu sigo para dar XP em uma mensagem, o módulo de Níveis por Experiência no painel de controle, coisas que você pode configurar no painel de controle em relação ao XP no seu servidor e como fazer um comando de cartão de perfil para o seu servidor. <img src="https://cdn.discordapp.com/emojis/731873534036541500.png?v=1" class="inline-emoji">
 
 ## Regras que eu sigo para dar XP
 Eu sou um pouco exigente para recompensar o XP de uma mensagem! <img src="https://cdn.discordapp.com/emojis/729723959284727808.png?v=1" class="inline-emoji"> Para eu recompensar o XP:
