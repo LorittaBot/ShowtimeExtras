@@ -36,6 +36,34 @@ Você pode editar textos/cores/etc clicando na seção que você quer editar, po
 
 O embed editor está integrado com o website da Loritta! Para abrir uma mensagem no Embed Editor, basta clicar no botão de "Editor Avançado" que você será levado para o embed editor.
 
+## Como colocar GIF e Imagens na Embed
+
+Na embed você pode estar adicionando imagens clicando nas seções "Adicionar Imagem" ou "Adicionar Thumbnail".
+
+![Uma imagem que ilustra como você pode adicionar imagens/gifs](/v3/assets/img/faq/embed/editor_options.png)
+
+Ao clicar em alguma das seções vai disponibilizar uma "caixinha" com espaço e nela você vai adicionar o link da imagem que você quer. Ok, mas como copio link de uma imagem? 
+
+### No Computador: 
+
+**1.** Envie a imagem que você quer em algum chat do seu discord, clique com o botão direito do mouse e selecione "Copiar link". 
+
+![Uma imagem que ilustra como você pode copiar links pelo computador](/v3/assets/img/faq/embed/link_example.png)
+
+### No Celular: 
+
+**1.** Envie a imagem que você quer em algum chat do seu discord, aperte em cima da imagem para abrir e clique em "Compartilhar".
+
+  ![Uma imagem que ilustra como você pode copiar links pelo celular](/v3/assets/img/faq/embed/copy_example.png)
+
+**2.** Cole no Editor Avançado de Embed e clique em "Salvar". 
+
+ ![Uma imagem que ilustra copiar link no editor](/v3/assets/img/faq/embed/editor_example.png)
+
+**3.** Pronto! Agora é só ir na aba do Painel de Controle que a edição está lá, depois ir ao fim da página e "SALVAR".
+
+![Uma imagem que ilustra a imagem na embed](/v3/assets/img/faq/embed/embed_editor.png)
+
 ## Templates
 
 Para você ver como é feito os embeds, deixamos alguns embeds prontos para você ver, usar e se divertir! Para utilizar eles, copie o código, coloque no lugar de texto no painel da Loritta aonde você quer usar o embed e veja como ele ficou!
