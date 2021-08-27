@@ -49,6 +49,9 @@ Nesta página, quando estamos dizendo que é para "esperar X meses", significa q
 
 ## Motivos Especiais
 
+### Banimentos considerados injustos
+* Se você acha que que seu banimento foi injusto, você pode fazer o apelo independentemente do tempo que você está banido, mas fique ciente de que a regra de poder fazer o formulário apenas uma vez ainda está valendo. Você também perderá a chance de ser desbanido caso o seu banimento tenha sido realmente justo.
+
 ### Múltiplos motivos no seu banimento
 * Se você possui múltiplos motivos no seu banimento, você deverá usar como tempo base a infração que tem o maior tempo de espera, e aí somar com os restos das infrações dividido por dois, e assim você terá o tempo que você precisa esperar.
 * **Exemplo:** Se você foi banido por "Criar múltiplas contas para farmar sonhos no daily" e "Comércio de Sonhos (Venda)", você deverá somar 18 + (9 / 2), que dá 22,5. Logo você terá que esperar 22,5 meses antes de enviar um apelo.
