@@ -51,6 +51,7 @@ Nesta página, quando estamos dizendo que é para "esperar X meses", significa q
 
 ### Banimentos considerados injustos
 * Se você acha que que seu banimento foi injusto, você pode fazer o apelo independentemente do tempo que você está banido, mas fique ciente de que a regra de poder fazer o formulário apenas uma vez ainda está valendo. Você também perderá a chance de ser desbanido caso o seu banimento tenha sido realmente justo.
+* Ao fazer o formulário, envie todas as justificativas e comprovantes que o seu banimento não foi justo. É permitido que você anexe as provas na parte "Desenhe um Gatinho" do formulário.
 
 ### Múltiplos motivos no seu banimento
 * Se você possui múltiplos motivos no seu banimento, você deverá usar como tempo base a infração que tem o maior tempo de espera, e aí somar com os restos das infrações dividido por dois, e assim você terá o tempo que você precisa esperar.
