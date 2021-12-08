@@ -47,6 +47,9 @@ Nesta página, quando estamos dizendo que é para "esperar X meses", significa q
 * Você aceitou os termos de pagamento na hora da compra, aonde existe uma cláusula que indica que pedir devolução de dinheiro é proibido e você será banido de usar a Loritta, já que isso prejudica a Loritta.
 * **Exceção:** Caso você consiga provar que não recebeu o produto, você pode fazer um apelo.
 
+### Comércio por sonhos de assinaturas pagas conseguidas ilegalmente 
+* Isto é crime, o apelo será rejeitado.
+
 ## Motivos Especiais
 
 ### Banimentos considerados injustos
