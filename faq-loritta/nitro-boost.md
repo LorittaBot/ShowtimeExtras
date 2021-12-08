@@ -12,7 +12,7 @@ Para mais informações ou para dar um boost, [clique aqui](https://support.disc
 ## "O que eu ganho ao dar boost no servidor da Loritta?"
 Cada boost que você dá em um servidor da nossa lista de servidores você ganha as vantagens de quem doou 19,99 reais para mim! Veja todas as vantagens [clicando aqui](/donate).
 
-Lembre-se: Você apenas ganha as vantagens se você der o boost antes do servidor ter mais de 40 boosts, caso o servidor tenha mais de 40 boosts, você não irá ganhar as recompensas! 
+Lembre-se: Você apenas ganha as vantagens se você der o boost antes do servidor ter mais de 25 boosts, caso o servidor tenha mais de 25 boosts, você não irá ganhar as recompensas! 
 
 ## "aaaa porque eu preciso dar dois boosts para ganhar as vantagens de 40 reais?"
 Em épocas distantes, cada Nitro só tinha um boost para usar. Como o Discord Nitro custa aproximadamente 39,99 reais, as vantagens de quem dava boost era as mesmas de quem doava 39,99 reais e inclusive boosters ganhavam 3 sonhos por minuto.
@@ -45,4 +45,4 @@ Ou seja, se você tem um boost aqui e você doou 19,99 reais, eu irei considerar
 ## Lista de servidores para boost
 Entre no meu [servidor de comunidade](https://discord.gg/lori) e procure pelo canal de texto <span class="discord-mention">#🚀│nitro-boosters</span> para ver a lista. Já está lá e quer praticidade? Então [clique aqui](https://discord.com/channels/297732013006389252/663098645767258113/681474891870240769) (é o link da mensagem). 
 
-Recomendo que você sempre verifique se o servidor que está nesta lista tenha menos de 40 boosts, já que às vezes eu posso cometer enganos e colocar servidores que já passaram dos 40. Errar é humano, né, mas no meu caso... <img src="https://cdn.discordapp.com/emojis/626942886461833217.png?v=1" class="inline-emoji">
+Recomendo que você sempre verifique se o servidor que está nesta lista tenha menos de 25 boosts, já que às vezes eu posso cometer enganos e colocar servidores que já passaram dos 25. Errar é humano, né, mas no meu caso... <img src="https://cdn.discordapp.com/emojis/626942886461833217.png?v=1" class="inline-emoji">
