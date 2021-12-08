@@ -1,4 +1,5 @@
 title: "Placeholders & Variáveis"
+authors: [ "peterstark000", "mrpowergamerbr" ]
 ---
 
 Existem vários placeholders que você pode usar nas mensagens da Loritta!

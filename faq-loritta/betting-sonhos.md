@@ -1,4 +1,5 @@
 title: "Aposte seus sonhos"
+authors: [ "arth" ]
 ---
 Uma das maneiras de usar seus sonhos é apostando. Tanto com outra pessoa ou comigo, você pode sair lucrando muitos sonhos! Não sabe o que são sonhos? Então [clique aqui](/extras/faq-loritta/sonhos). A seguir você verá todas as formas de apostar seus sonhos.
 

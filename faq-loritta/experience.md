@@ -1,13 +1,15 @@
 title: "Níveis por Experiência"
+authors: [ "arth", "peterstark000" ]
 ---
-
-<img src="https://i.imgur.com/SMrrBfQ.png" style="text-align: center;" height="300" />
+<div class="centered-text">
+<img src="/v3/assets/img/faq/experience/banner.png" height="300" />
+</div>
 
 Experiência você ganha conversando nos canais de texto do seu servidor. Você pode ver o seu XP usando o comando `+perfil`. Existe o XP local (XP dentro de apenas um servidor) e o XP global (XP em todos os servers que eu estou). Cada nível de experiência são 1.000 XP.
 
 Você pode ver o rank de experiência do seu servidor usando `+rank` e o rank global usando `+rank global`.
 
-Nesta seção você vera as regras que eu sigo para dar XP em uma mensagem, o módulo de Níveis por Experiência no painel de controle, coisas que você pode configurar no painel de controle em relação ao XP no seu servidor e como fazer um comando de cartão de perfil para o seu servidor. <img src="https://cdn.discordapp.com/emojis/731873534036541500.png?v=1" class="inline-emoji">
+Nesta seção você verá as regras que eu sigo para dar XP em uma mensagem, o módulo de Níveis por Experiência no painel de controle, coisas que você pode configurar no painel de controle em relação ao XP no seu servidor e como fazer um comando de cartão de perfil para o seu servidor. <img src="https://cdn.discordapp.com/emojis/731873534036541500.png?v=1" class="inline-emoji">
 
 ## Regras que eu sigo para dar XP
 Eu sou um pouco exigente para recompensar o XP de uma mensagem! <img src="https://cdn.discordapp.com/emojis/729723959284727808.png?v=1" class="inline-emoji"> Para eu recompensar o XP:
@@ -21,16 +23,16 @@ Se tudo der certo, o XP da mensagem é a quantidade de caracteres não repetidos
 
 ## Configurando os Níveis por Experiência
 1. Acesse o painel de controle do seu servidor [clicando aqui](/dashboard) ou usando o comando `+painel` no seu servidor.
-![1° passo](https://i.imgur.com/myEkOAY.png)
+![1° passo](/v3/assets/img/faq/servers.png)
 
 2. Ao acessar o painel, você começará pelo módulo Configurações Gerais. Procure então pelo módulo Níveis por Experiência na lista à sua esquerda.
-![2° passo](https://cdn.discordapp.com/attachments/358774895850815488/799303027051331604/unknown.png)
+![2° passo](/v3/assets/img/faq/experience/find_module.png)
 
 3. Agora que você está no módulo dos níveis por experiência, você pode configurar várias coisas relacionadas ao XP dos membros do seu servidor! 
-![3° passo](https://cdn.discordapp.com/attachments/358774895850815488/799303975995703406/unknown.png)
+![3° passo](/v3/assets/img/faq/experience/configuration.png)
 
 4. Após configurar, desça a página e procure por um botão verde escrito `Salvar`. É muito importante que você salve as configurações feitas quando você mexe no painel de controle. Prontinho! <img src="https://cdn.discordapp.com/emojis/519546310978830355.png?v=1" class="inline-emoji"> Eu irei seguir o que você pediu em questão de XP agora.
-![4° passo](https://cdn.discordapp.com/attachments/358774895850815488/799304702806327376/unknown.png)
+![4° passo](/v3/assets/img/faq/experience/save.png)
 
 **Atenção**: Usuários normais conseguem colocar 15 cargos por experiência no servidor deles. Já <img src="https://cdn.discordapp.com/emojis/593979718919913474.png?v=1" class="inline-emoji"> usuários premium <img src="https://cdn.discordapp.com/emojis/593979718919913474.png?v=1" class="inline-emoji">, ativando uma [key premium](/extras/faq-loritta/premium-keys) no servidor, conseguem colocar de 30 a 100 cargos! Whoosh! [Clique aqui](/donate) para tornar-se um usuário premium.
 

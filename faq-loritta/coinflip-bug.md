@@ -1,4 +1,5 @@
 title: "Como \"bugar\" o coinflip?"
+authors: [ "mrpowergamerbr" ]
 ---
 Muitas pessoas acreditam que é possível "bugar" o `coinflip`/`coinflip bet`, fazendo que você sempre ganhe qualquer partida de coinflip com outra pessoa.
 

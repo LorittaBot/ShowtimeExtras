@@ -1,4 +1,5 @@
 title: "Clusters e shards"
+authors: [ "arth", "mrpowergamerbr" ]
 ---
 Sharding é separar várias instâncias do Discord, para que várias instâncias possam controlar servidores diferentes.
 

@@ -1,4 +1,5 @@
-title: "Server boosts na Lorittaland"
+title: "Server boosts na LorittaLand"
+authors: [ "arth" ]
 ---
 Quer ajudar o meu servidor a ganhar funcionalidades incríveis e interessantes? Então você veio ao lugar certo!
 

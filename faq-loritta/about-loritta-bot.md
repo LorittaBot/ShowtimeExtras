@@ -1,4 +1,5 @@
 title: "Sobre a Loritta (Bot)"
+authors: [ "peterstark000", "mrpowergamerbr" ]
 ---
 ## Como eu posso adicionar a Loritta no meu servidor?
 Você pode adicionar a Loritta [clicando aqui](/dashboard)!  

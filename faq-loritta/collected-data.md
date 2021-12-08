@@ -1,4 +1,5 @@
 title: "Dados que a Loritta guarda sobre você"
+authors: [ "mrpowergamerbr" ]
 ---
 Muitas pessoas tem curiosidade de saber o que a Loritta guarda sobre você, então aqui tem uma lista completa sobre o que ela guarda e porque ela guarda tais informações.
 

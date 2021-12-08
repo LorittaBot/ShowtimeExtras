@@ -1,4 +1,5 @@
 title: "Customizando seu perfil"
+authors: [ "arth" ]
 ---
 
 O seu perfil na Loritta pode ser visto usando o comando `+perfil`. Para ver o perfil de outras pessoas, use o comando `+perfil <menção ou ID da pessoa>`. Ele é o seu cantinho dentro do bot, com informações sobre você, bio e fundo e layout customizável. A seguir você verá como customizar cada um destes itens.

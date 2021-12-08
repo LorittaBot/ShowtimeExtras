@@ -1,6 +1,9 @@
 title: "Loritta's Home Broker"
+authors: [ "mrpowergamerbr" ]
 ---
-<img src="https://cdn.discordapp.com/emojis/788434890927505448.png?v=1">
+<div class="centered-text">
+<img src="https://i.imgur.com/FrSMGpZ.png" height="300" />
+</div>
 
 Loritta's Home Broker (ou "Corretora da Loritta") é uma funcionalidade da Loritta aonde você pode comprar e vender ações da Bolsa de Valores do Brasil (B3) por sonhos, simulando a bolsa de valores da vida real!
 

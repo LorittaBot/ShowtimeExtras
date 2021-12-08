@@ -1,7 +1,9 @@
 title: "Traduções para a Loritta"
+authors: [ "peterstark000" ]
 ---
-
-<img src="https://i.imgur.com/ylOjZXG.png" style="text-align: center;" height="300" />
+<div class="centered-text">
+<img src="/v3/assets/img/faq/translate/banner.png" height="300" />
+</div>
 
 Para mais pessoas usarem e se divertirem com a <span class="discord-mention">@Loritta</span>, é necessário traduzir ela para outras linguagens para ela crescer mais e ser mais feliz! <img src="https://cdn.discordapp.com/emojis/524893994874961940.gif?v=1" class="inline-emoji">    
 Traduzir algo para várias linguagens é complicado, afinal, o trabalho é feito manualmente, então pedimos encarecidamente que se você tem dominação por alguma linguagem nós ajude a traduzir a Loritta!   

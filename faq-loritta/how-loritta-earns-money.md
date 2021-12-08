@@ -1,4 +1,5 @@
 title: "Como a Loritta ganha dinheiro?"
+authors: [ "mrpowergamerbr" ]
 ---
 Muitas pessoas não sabem, mas manter um bot do tamanho da Loritta precisa de dinheiro para pagar com hospedagens, domínios, eventos e um monte de miscelânea que ajudam a Loritta a cresce e a ser um bot melhor a cada dia que passa.
 
