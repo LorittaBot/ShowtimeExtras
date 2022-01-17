@@ -10,7 +10,7 @@ Os sonhos são a minha economia. Você pode usá-los para comprar várias coisas
 * Ligando primeiro para o [Bom Dia & Cia](/extras/faq-loritta/bomdiaecia). <img src="https://cdn.discordapp.com/emojis/763231811723460629.png?v=1" class="inline-emoji">
 * Recebendo doações/pagamentos (`+pay @user quantia`).
 * [Apostando seus sonhos](/extras/faq-loritta/betting-sonhos).
-* Trocando garticos, a economia do [GarticBot](https://top.gg/bot/487328045275938828), por sonhos (use `gb.garticos sonhos quantia` no [Discord do Gartic](https://discord.gg/gartic)).
+* Trocando garticos, a economia do [GarticBot](https://top.gg/bot/487328045275938828), por sonhos (use `gb.garticos sonhos quantia` no [Discord do Gartic](https://discord.gg/garticbr)).
 * Transferindo os sonhos que você conseguiu no SparklyPower, meu servidor de Minecraft com a Pantufa, para o Discord (use `-lsx` no [Discord do SparklyPower](https://discord.gg/sparklypower).  <img src="https://cdn.discordapp.com/emojis/672779636878606346.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779665366319104.png?v=1" class="inline-emoji"><img src="https://cdn.discordapp.com/emojis/672779686098501643.png?v=1" class="inline-emoji">
 * Votando em mim na [Discord Bot List](https://discordbots.org/bot/loritta) (sabia que a cada 60 votos em mim você ganha uma [key premium](/extras/faq-loritta/premium-keys)?).
 * Lucrando em ações da [Loritta's Home Broker](/extras/faq-loritta/loritta-home-broker). <img src="https://cdn.discordapp.com/emojis/788434890927505448.png?v=1" class="inline-emoji">
