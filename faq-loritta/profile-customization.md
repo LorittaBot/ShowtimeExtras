@@ -25,7 +25,7 @@ Os backgrounds são divididos em raridades, e suas raridades influenciam nos pre
 > * **Épico**: 25.000 sonhos
 > * **Lendário**: 80.000 sonhos
 
-Você pode sugerir novos backgrounds e ser notificado quando tem novos backgrounds para a loja diária no meu [servidor de comunidade](discord.gg/lori)! Entre no servidor e procure pelos canais `backgrounds` e `novos-backgrounds`, respectivamente. Veja a lista de todos os backgrounds existentes [clicando aqui](user/@me/dashboard/all-backgrounds).
+Você pode sugerir novos backgrounds e ser notificado quando tem novos backgrounds para a loja diária no meu [servidor de comunidade](discord.gg/lori)! Entre no servidor e procure pelos canais `backgrounds` e `novos-backgrounds`, respectivamente.
 
 Sabia que comprando o meu plano premium recomendado você pode colocar qualquer imagem como background no seu perfil? <img src="https://cdn.discordapp.com/emojis/593979718919913474.png?v=1" class="inline-emoji"> Desde que não seja uma imagem NSFW, que siga as minhas [guidelines](/guidelines), é claro! [Clique aqui](/donate) para doar! 
 
