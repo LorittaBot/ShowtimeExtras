@@ -8,6 +8,8 @@ Use o comando `+coinflip bet @user quantia` para apostar qualquer quantia de son
 
 Se quiser apostar seus sonhos comigo, basta você me mencionar na aposta e reagir como se tivesse apostando com um usuário normal, só não posso te garantir que vou ter sonhos no momento da aposta, já que eu vivo #falida por causa das pessoas que me rapam... <img src="https://cdn.discordapp.com/emojis/626942886251855872.png?v=1" class="inline-emoji"> Você pode doar pra mim usando `+pay @Loritta#0219 quantia` para que eu tenha sonhos para apostar.
 
+É possível ver as suas estatísticas usando o comando `+coinflip bet stats`. Apostas usando slash commands ainda não são computadas.
+
 ## Lorifa: `+lorifa buy`
 Use o comando `+lorifa` para ver informações sobre a rifa que está acontecendo nesse momento. Se quiser comprar um ticket para tentar a sorte nela, use `+lorifa buy quantidade` (cada ticket custa 250 sonhos). Saiba que você precisa resgatar os seus [sonhos diários](/daily) para conseguir apostar na rifa. :lori_rica:
 
